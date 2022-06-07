@@ -101,3 +101,35 @@ Have a read at this blog and see if that helps? [https://psyteachr.github.io/qua
 ### How many decimal places should we use in values?
 
 The APA Style guide webpage has a good guide on this that it is handy to know about: [Numbers and Statistics in APA](https://apastyle.apa.org/instructional-aids/numbers-statistics-guide.pdf){target = "_blank"}. This is not always adhered to though in publications and often the APA defer to the teachers of a course as the final say. However, if in doubt, using this guideline is totally fine.  One common approach people take is the decimal places for p-values and correlation values (r-values), and two decimal places for everything else. Really the hidden rule behind that is whether the value can go above 1 or not. p-values and correlation values (Pearson r) can't go above 1 and so we drop the first 0 and go to three decimal places - e.g. r = .015 and not r = 0.015 or r = 0.02. Often as well people might put Cohen's d to three decimal places, even though it can go above 1, especially when it is small - e.g. d = 0.005 rather than d = 0.01 as rounding up really changes the effect size. So there are always a few caveats and nuances. The main advice is to try and be consistent at this level, and do not use more than three decimal places.
+
+### What is the best way to structure our introductions?
+
+The most common advice is to run broad to narrow and that holds here as well. The tricky part here is of course that you are working with probably three variables and trying to bring that altogether. Obviously there are a million different ways to bring all this information together but if it was us we would default to the notion of no, matter what we do, the hypotheses are always in the last paragraph of the introduction. That may mean that one research question, and the information leading to it, is half-way up the intro and the other Research Question is much further down the intro. Or it might mean that both RQs and both hypotheses are near the end, but yeah the intro to the methods transition works best when the hypotheses are at the end of the intro. There is of course no issue in restating one hypothesis twice (midway and at the end) but that might be a bit heavy on words. All that said, there is nothing wrong per se of having one hypothesis halfway up the intro - like it isn't illegal in any way - it just makes more logical sense to a reader in the methods if they are at the end of the introduction as this leads nicely into the methods and results.
+
+### Should we give equal weight to all the variables in the introduction?
+
+That is one option and that can work if you are equally interested in all variables and each are as equally important to what you are overall trying to show. Alternatively,  it might help to see the research as being focused on one variable (say Self-Efficacy) and having two questions about that one variable. One of the question taps into its relationship with another variable (test-anxiety), and the other question taps into the difference between two groups on that variable (maturity). Then your balance is more about giving equal weight to test-anxiety section and the maturity section, rather than trying to balance all three variables, as the self-efficacy variable runs through both sections. This might give a slightly clunky transition between the two sections but that is ok here. 
+
+### Can you use subheadings in an Introduction and a Discussion?
+
+Yes. There is no rule against this. The question is really do you need them. Often when people use subheadings in an introduction and discussion it leads them to write separate sections in the introduction and the different parts are not connected or joined in any way and it reads like different reports in the one introduction. If you do use subheadings try to think about your writing to still connect the different sections and show they are interlinked in some fashion. Even a simple sentence like "A second important question related to Self-Efficacy is..." This at least shows some brief acknowledgement of the first section and that everything is tied to self-efficacy and questions around it. Do remember though that subheadings count in the word count and if your sections are interlinked then you probably don't need them.
+
+### Do we need subheadings in the Methods Section?
+
+Yes. This is important as it is part of the APA formatting of a report and using the professional structure. The main subheadings would be Participants, Materials, and Procedure. You can also include a Design and Analysis subsection but sometimes this information is included in the Results section so it comes down to what works best for your writing.
+
+### Can we change the order of subheadings in a Methods Section?
+
+The standard is usually Participants, Materials, then Procedure as this follows the logical flow of who, with what, and how - who did you test, what did you use, and what did they do - however, if the information in your writing would make more sense in a different order then that would be acceptable. Do watch out however that logical flow is maintained in the order - do not try to explain things before the reader has the information they need to understand what you are talking about.
+
+### Do we need an Ethics subsection in the Methods?
+
+No but if you wanted to include one that is fine, or to include a sentence in the Procedure maybe. Please note that this is not essential for this report however. The study was granted ethics through the Ethics Committee of the School of Psychology and Neuroscience.
+
+### What is the main difference between a Materials subsection and the Procedure subsection?
+
+The main difference is that the Materials details what you used - stimuli, questionnaires, etc - whereas the Procedure details what participants did and how the study was run - they responded to each questionnaire shown individually with all questions presented randomly. Possible answers were...
+
+### Do we need to discuss the code we wrote and how it worked?
+
+No. Again not wrong but it is using up space and is not needed.  If you find yourself saying "we loaded in the csv file and the filtered it for X and then mutated on a column before creating a mean value for each participant" then rephrase as "a mean value was calculated for each participant" as that is the key bit. You do not need to detail how the code work and you are likely using up words that should be saved for other sections.
