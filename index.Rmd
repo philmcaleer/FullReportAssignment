@@ -1,0 +1,103 @@
+---
+title: "Full Report Assignment Common Questions and Answers"
+output: 
+  html_document:
+    toc: true
+    toc_float:
+      collapsed: true
+    toc_depth: 3
+    number_sections: false
+    theme: "readable"
+    highlight: "espresso"
+---
+
+<style>
+h1:not(.title), #TOC > ul.tocify-header > li:first-child {
+  font-weight: bold; 
+  color: green; 
+}
+
+h2, #TOC ul.tocify-subheader[data-tag="2"] > li.tocify-item {
+  color: blue; 
+}
+
+h3, #TOC ul.tocify-subheader[data-tag="3"] > li.tocify-item {
+  color: purple;
+  font-variant: small-caps; 
+}
+
+body{
+  font-family: Arial;
+}
+
+</style>
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# General Questions
+
+### Is there one way to write a report?
+
+No. A lot of materials on writing reports will tell you to do this or to do that. In the vast majority of cases this advice will be nothing more than that, advice, not hard and fast rules. That said, that advice is often given based on what makes a better reading experience for your intended audience and so is worth paying attention to. There will of course be some rules, on aspects such as presentation of information, values, citations, etc and, given that we use APA 7th edition, it is worth referring to this webpage and the instructional aids there for pointers on that aspect: [https://apastyle.apa.org/style-grammar-guidelines](https://apastyle.apa.org/style-grammar-guidelines){target="_blank"}
+
+### What is the best way to write a report?
+
+Again no real one answer but one key thing to keep in mind is your reader. Often we fall into the trap of thinking as the writer, because we are writing the report, and forget about the reader. So one good bit of advice is to write like a writer and read like a reader. This means that when you are redrafting your work, take a perspective of a reader who knows about psychology but perhaps does not know this topic so well. This will help you spot where ideas and information are not as clear as they could be.
+
+### When is the deadline again and what are the marking criteria?
+
+Best to check the Assessment Information Sheet on Moodle. We believe it is better to have one document that has correct information rather than multiple documents having conflicting information so we will keep that answer to the AIS.
+
+### Should we include the pre-registration in the submission?
+
+This is not essential but normally we ask that you include your answers to the first 5 questions from the pre-registration as an appendix to the full report. Do not worry if you forget this though as it is not essential and just recommended. You can include the code as well if that is easier but again not essential. Having the pre-registration as an appendix helps the reader check things if they are uncertain.
+
+### Can we refer to the pre-registration in the appendix?
+
+Yes but this must not be used as a means to save words. For example, you can say "We excluded participants based on the criteria of under 21, male and mature student (see Appendix A)" but you can't say "We excluded participants based on criteria (see Appendix A)". The report has to stand alone and as such relevant information should be contained in the full report.
+
+### Is there a recommended word count for each part of the report?
+
+So in terms of word count, whilst there is no specific hard and fast for each section a good ballpark is something like a third, a third, a third. Third on intro, third on discussion, third on the methods, results, abstract.  Don't take that verbatim though and just as a ballpark. We would  suggest though that the intro and discussion should balance (no very long intro and very small discussion, or vice versa, and any words we can save from the middle section of the methods and results, we put into the intro and discusison. Methods and Results are formulaic and detailed, they dont need a lot of expansion - so if you can get the detail across in less words then those spare words we would put into the intro and discussion. The intro and discussion of a paper do a lot of the heavy lifting basically.
+
+### Can we use abbreviations?
+
+Abbreviations are really not great for readers - they are only good for writers in that it helps them save space. For a reader it creates a high cognitive demand as they try to remember what the abbreviation stood for, ultimately distracting them from reading and understanding what you are writing - an example here might be using SE for Self-Efficacy and IM for Intrinsic Motivation. Taking this approach makes the writing very hard to understand and we would discourage it at all times. The exception here is questionnaires (e.g. MSLQ) and well-known techniques or methods (e.g. MRI, MEG, EEG) but remember to state the phrase out in full in the first instance.
+
+### Can we use quotations from previous work?
+
+Technically this is allowed but would be better if you didn't and just rephrased the writing in your own words. For one, quotations change the tone of the writing from your tone to that of the other writer. More importantly, when you use a quotation, and don't go into depth about the meaning of that quotation, you are relying on the reader getting the exact same meaning from the quotation that you did but they are only getting the quotation out of context. A much better approach then is to restate the meaning so that it fits and flows with the surrounding context of your writing.
+
+### Should we use do not or don't?
+
+Do not use don't and other such shortenings like can't and shouldn't. Instead use do not etc. Remember academic tone!
+
+### In the Design and Analysis subsection of the Methods do we just say what we did or do we need to justify and cite why we chose certain methods?
+
+In general your Methods section will be mostly descriptive, just stating what you did, who you ran, and how, within the full report. Caveats to that may be things like your inclusion/exclusion criteria where you may wish to provide some justification, or perhaps you want to add a citation to support any discussion of using one approach over another, e.g. using the Welch's over the Students, but if just stating we used a Pearson correlation then there is no need for citation. Overall though the Methods section should be clear and concise. 
+
+### Should we cite R, RStudio and packages used.
+
+The minimum should be citing R and packages used. There is a thread on the TEAMS channel which can be reached by searching the channel for "How to cite R and packages". It was posted by Phil on 1st June 16:40pm.
+
+### How do you cite R and packages
+
+Information on this can be found on a thread on the TEAMS channel which can be reached by searching the channel for "How to cite R and packages". It was posted by Phil on 1st June 16:40pm. The main thing to say is that it can be tricky to know what to put as a reference for the individual packages and we understand that. We would suggest having the last name of author, first initial of author, year, and package name if possible.
+
+### Do we need to cite all packages contained within Tidyverse?
+
+There is debate on this as mentioned on a thread on the TEAMS channel which can be reached by searching the channel for "How to cite R and packages". It was posted by Phil on 1st June 16:40pm. We would recommend that for this report it is fine to just cite the tidyverse.
+
+### How exactly do we use the power and effect sizes reported in our pre-reg as part of our descriptive and inferential analyses in the Quant Report? 
+
+There is these blogs at the end of the power chapter that might help: [https://psyteachr.github.io/quant-fun-v2/power-and-effect-sizes.html#additional-information](https://psyteachr.github.io/quant-fun-v2/power-and-effect-sizes.html#additional-information){target="_blank"} Your pre-reg is an estimate of how many people you needed. The full dataset is how many people you got. With that full dataset you can determine an effect of X. You run the analysis and find an effect of Y. If X is less than Y then your study was sufficiently powered. If X is bigger than Y then your study was underpowered. If your study is sufficiently powered and you find a significant effect then there is some support for it being a reliable effect. If your study is underpowered then no matter what you find, significant or not significant, is a bit unclear.
+
+### What happens if you are underpowered?
+
+Have a read at this blog and see if that helps? [https://psyteachr.github.io/quant-fun-v2/power-and-effect-sizes.html#a-blog-on-interpreting-and-writing-up-power](https://psyteachr.github.io/quant-fun-v2/power-and-effect-sizes.html#a-blog-on-interpreting-and-writing-up-power){target="_blank"}. Being underpowered is just something that happens. The trick is to just avoid saying there is absolutely nothing going on here. When underpowered the truth is you just don't know what is actually happening. You know the effect is not this big but you dont know if it is really this small and can't rule it out so you have to be cautious in the write up. "The absence of evidence is not evidence of an absence" is how someone much smarter than us put it once, but it is the trap a lot of seasoned researchers fall into and one we are trying to teach people to avoid. Another way of phrasing it is, "I dont know what it is but I know what it isn't" i.e. I know it isnt a big effect but I dont know if it is a medium or small effect or nothing so I am just going to leave it at that.
+
+### How many decimal places should we use in values?
+
+The APA Style guide webpage has a good guide on this that it is handy to know about: [Numbers and Statistics in APA](https://apastyle.apa.org/instructional-aids/numbers-statistics-guide.pdf){target = "_blank"}. This is not always adhered to though in publications and often the APA defer to the teachers of a course as the final say. However, if in doubt, using this guideline is totally fine.  One common approach people take is the decimal places for p-values and correlation values (r-values), and two decimal places for everything else. Really the hidden rule behind that is whether the value can go above 1 or not. p-values and correlation values (Pearson r) can't go above 1 and so we drop the first 0 and go to three decimal places - e.g. r = .015 and not r = 0.015 or r = 0.02. Often as well people might put Cohen's d to three decimal places, even though it can go above 1, especially when it is small - e.g. d = 0.005 rather than d = 0.01 as rounding up really changes the effect size. So there are always a few caveats and nuances. The main advice is to try and be consistent at this level, and do not use more than three decimal places.
