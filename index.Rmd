@@ -62,6 +62,10 @@ Yes but this must not be used as a means to save words. For example, you can say
 
 So in terms of word count, whilst there is no specific hard and fast for each section a good ballpark is something like a third, a third, a third. Third on intro, third on discussion, third on the methods, results, abstract.  Don't take that verbatim though and just as a ballpark. We would  suggest though that the intro and discussion should balance (no very long intro and very small discussion, or vice versa, and any words we can save from the middle section of the methods and results, we put into the intro and discusison. Methods and Results are formulaic and detailed, they dont need a lot of expansion - so if you can get the detail across in less words then those spare words we would put into the intro and discussion. The intro and discussion of a paper do a lot of the heavy lifting basically.
 
+### What is included in the word count?
+
+An easier way is to say what is not included in the word count. The title, the references, and the appendices (if you have any) are the only things not included in the word count. Everything else - including figure legends, table legends, citations, etc, and all the text from the abstract to the end of the discussion, are included in the word count
+
 ### Can we use abbreviations?
 
 Abbreviations are really not great for readers - they are only good for writers in that it helps them save space. For a reader it creates a high cognitive demand as they try to remember what the abbreviation stood for, ultimately distracting them from reading and understanding what you are writing - an example here might be using SE for Self-Efficacy and IM for Intrinsic Motivation. Taking this approach makes the writing very hard to understand and we would discourage it at all times. The exception here is questionnaires (e.g. MSLQ) and well-known techniques or methods (e.g. MRI, MEG, EEG) but remember to state the phrase out in full in the first instance.
@@ -130,6 +134,114 @@ No but if you wanted to include one that is fine, or to include a sentence in th
 
 The main difference is that the Materials details what you used - stimuli, questionnaires, etc - whereas the Procedure details what participants did and how the study was run - they responded to each questionnaire shown individually with all questions presented randomly. Possible answers were...
 
+### I have seen Cronbach's alpha mentioned in papers. What is this and do we need it?
+
+In terms of a questionnaire, cronbach's alpha is usually meant as a measure of reliability. Normally a cronbach of $\alpha$ > .8 (so between .8 and 1) is considered very good reliability. It means that if you gave the same person the same test/questionnaire twice then they would give a similar response. You do not need to calculate this for this report as we have not covered. However you can include it if you like in the materials when talking about the MSLQ if you feel confident in it. Normally it is just a statement of "Previously this scale has been shown to have good reliability ($\alpha$ = .XX), (citation)". But this is not essential in this report as we have not covered it.
+
 ### Do we need to discuss the code we wrote and how it worked?
 
 No. Again not wrong but it is using up space and is not needed.  If you find yourself saying "we loaded in the csv file and the filtered it for X and then mutated on a column before creating a mean value for each participant" then rephrase as "a mean value was calculated for each participant" as that is the key bit. You do not need to detail how the code work and you are likely using up words that should be saved for other sections.
+
+### My degrees of freedom for my Welch's t-test has a decimal place. Is that ok and should I round it up?
+
+When you run a Welch's t-test the degrees of freedom is likely to have a decimal place and should not be round up. Convention is to state it the degrees of freedom to two decimal places as it can go above 1. For example, t(95.56) = -0.91, p = 0.367, d = -0.19.
+
+### When we calculated power for the t-test in the pre-reg we were expecting equal sizes. How can I calculate the power with unequal sizes?
+
+There is a thread on this on the TEAMS channel which you can find by searching for "Power on t-tests with different sample sizes". It was posted by Phil on the 19th May @ 10:26. However there is also an example within the the Fundamentals of Quantitative Analysis book here if that helps others: [https://psyteachr.github.io/quant-fun-v2/power-and-effect-sizes.html#uneven-groups](https://psyteachr.github.io/quant-fun-v2/power-and-effect-sizes.html#uneven-groups){target="_blank"}. Remember that you want to know the smallest `d` that you can determine with your sample sizes.
+
+### Can we or should we compare the results from our full dataset to the results from the pre-registration?
+
+No! Really no! The pre-registration is just a template to help you think about what you want to do with your data. The results from the pre-registration should not be talked about in the full report. 
+
+### Can I change my hypothesis?
+
+In practice, what you would probably do here if running your own full project would be depending on whether you had run the analysis or not. As soon as you run the analysis you should always write up what you originally intended and just deal with any differences in the discussion. If you haven't run the analysis you can effectively scrap everything and run a new pre-reg. But yeah, the point of no return, if you like, is running the analysis.
+
+### Can I change my pre-registration to avoid having to write about a deviation from the pre-registration?
+
+The real question is "should you change your pre-registration?" The answer to that would be no, we would probably suggest just leaving the pre-registration as is and writing about the deviation briefly as shown in the videos. To do good and honest science involves having to write up some issues we have. That is fine!
+
+### I have now done a lot of reading and think my pre-registration is completely wrong and want to change it all. Can I?
+
+Ultimately we will grade and give feedback on the full report you submit. It is unadvised to change the pre-registration because you won't have any feedback on it and your grade won't change for it, but ultimately we will grade and give feedback on the full report you submit and not on the pre-registration.
+
+### In the participants section should I show the mean age and SD of groups regardless of whether I am looking at age or not?
+
+It would be really recommended. In any research it is important that a reader can contextualise the sample - who were they? There is a big difference between a sample of 60 year olds and a sample of 18 year olds and if you don't tell your reader who was tested then they can never contextualise the results. Most commonly you will see a breakdown of the number of participants and the mean age and standard deviation of age for categorical variable of interest - e.g. Mature Students (N = ..., Mean Age = ..., SD = ....).  You may see other information such as nationality but that additional information is more important when it is relevant and not just standard practice.
+
+### Should I give Mean Age etc on the sample before exclusions, after exclusions, or both?
+
+The most important one is after exclusions because that is who will ultimately be tested upon. It might be interesting to include information prior to exclusion - as it can sometimes show issues - but that might come down to availability of words.
+
+### I wanted to show a mean age but some didn't give their age and I don't want to filter them out?
+
+In that situation we might do something like "150 participants took part in our study (Mean Age = ..... years, SD = ......; 45 declined to answer)......."  At least that way you are making it clear the age and sd are based on what you have and you are making it clear that X didn't answer.
+
+### My t-test confidence interval is showing funny? It says Inf?
+
+That is fine if you have run a one-tailed t-test. It can be written as 95%CI = [0.61, Inf] assuming your effect is positive. If it was negative then -Inf is fine. It is because it is a one-sided test and the confidence estimate of the upper bound can't be estimated properly anymore (or that it could possibly be anything; we can't quite recall the distinction right now).
+
+### Should figures and tables in the Results section be in APA format?
+
+Preferably if you can but as we have not actually covered this yet it is not essential and won't be considered wrong if you do not use APA formatting.  You can get a good idea of APA formatting for figures and tables by looking at the guidelines here in the APA style blog: [https://apastyle.apa.org/style-grammar-guidelines/tables-figures](https://apastyle.apa.org/style-grammar-guidelines/tables-figures){target="_blank"}. More specifically the tabs titled "Sample Figure" and "Sample Table".
+
+### How can I do an APA figure in R?
+
+Again not required for this report but if you were to add `+ theme_classic()` to the end of a ggplot chain then you get something close enough. An example is below. But again this is not required in this report. 
+
+```{r, warning=FALSE, message=FALSE}
+library(tidyverse)
+
+ggplot(iris, aes(Sepal.Length,Sepal.Width)) + geom_point() + 
+  theme_classic()
+
+```
+
+### How can I do an APA table in R?
+
+Honestly it is not worth trying to do it in R right now. Best thing is to create the table in R so you have the values and then just create a table in Word and paste the values in.  You can actually get Word to give you a template of an APA table as a starter though if that would help. If you open a new word doc, but instead of just clicking "blank document", in the search online templates box type "APA", you will see the APA template. Once you select that and it opens, scroll down to page 7 and you will see the template table. You can then copy and paste that into your doc in the Results section and then just edit that as you need.
+
+### Can I use stars in my table to show different levels of significance? For example, p < .05 would be one *?
+
+On the * vs ** thing. So this is used in the literature but some are a fan and some aren't. Me (Phil) personally I wouldn't use them but that is maybe a conversation for another day and doesn't really have any bearing on this report. Just flagging that at times you will get into a conversation of whether this approach is good or not so good.
+
+### I don't have any tables in my Results section or Methods section, either for descriptives or for correlations, is that ok?
+
+Yes. If you only compare two groups and only run one correlation, often that information can be conveyed quite effectively just using text and not using a table - keeping in mind tables count in the word count and require legends. Some will have a table because it helps them. Some will not have a table because it doesn't help them. Both are fine.
+
+### Should I show all my assumptions figures in the Results section?
+
+No. It isn't needed. Again it isn't wrong to do so but it is taking up space as each figure needs a legend and needs talked about.
+
+### How many figures should be in my Results section?
+
+Normally there is one figure per analysis. So one t-test gives you one boxplot (or equivalent) and one correlation gives you one scatterplot. If you do one t-test and one correlation in your study then you would likely have two figures in your Results section.
+
+### Can I do more than just the minimum analysis of one t-test and one correlation?
+
+Ultimately we will mark and give feedback on what you submit. That means that if you were inspired to run a series of correlations then we would still mark that. However, please note that this report is not about showing how many analyses you can do. It is about showing how you can write up the two research analyses. The more analyses you do, the more space you take up from writing your introduction and discussion, and remember that every finding would need discussed in the Discussion. So whilst you can do more analyses, it is not advised.
+
+### Is it possible to compare different effect sizes such as Pearson's r, Cohen's d, partial eta-squared, and Hedges' g?
+
+Yes but the best thing to do is convert them all into the same effect size first so that you are comparing like for like. Often if you google "convert Cohen's d to...." you might find what you need and then you can compare across studies. If you can't convert the given effect size into a different one for some reason - not enough information for example - then you can compare them semantically "small vs large" but it would be worth acknowledging that they were different effect sizes in your writing somehow.
+
+### My data looks normal but the Shapiro-Wilks is showing as significant which would suggest not normal. Can I ignore my Shapiro-Wilks?
+
+This is likely because you have a large sample size. Here we would advise disregarding the Shapiro-Wilks but stating why. This paper [https://link.springer.com/article/10.3758/s13428-021-01587-5](https://link.springer.com/article/10.3758/s13428-021-01587-5){target="_blank"} has a useful point in it: "Formal tests for normality have been criticized because they have low power at small sample sizes and almost always yield significant deviations from normality at large sample sizes (Ghasemi & Zahediasl, 2012)."
+
+### Can I say my study is a replication?
+
+There is a distinction between direct and conceptual replication. With direct replication you are pretty much doing the exact same test as the original paper. With a conceptual replication it is a bit vaguer - that would be more close to such and such was found to hold in X, and if that reasoning and theory is correct then the same effect should be seen in Y.  So that can be stated. However, when a direct replication becomes a conceptual replication, and when a conceptual replication becomes just a whole new study inspired by something previous is really not clearly defined. Long story short, here you might think of this work as a conceptual replication but it might not be a direct replication.
+
+### Do we need to justify and give citations for each action and analysis in the Methods and Results?
+
+This aspect can be more brief in the full report as compared to the pre-registration so aim to provide brief justifications where needed. You would not need to citation the tests themselves e.g. a citation for a Pearson's correlation is not needed. Citations are more for when you are stating a reason for doing something that is perhaps a little different from the current norm - such as "We are using Welch's as it is better at controlling False Positive (citation)" as opposed to "We are using Pearsons because all assumptions were met".
+
+### My test was significant but the effect size/relationship was really really small. Have I done something wrong?
+
+Probably not. When you have a large sample, small effects/relationships will be significant. Check your code and check your degrees of freedom make sense. If all that seems correct then your result is probably correct just that you have a very significant and very small effect. This is why we should be more interested in effect sizes than p-values.
+
+### You said something about checking degrees of freedom to check my results make sense. What does that mean?
+
+When working with big data - or any data really - it can be easy to make a mistake. One thing you do know though is how to calculate the degrees of freedom from your test. In a correlation it is N - 2 for example. So if you have 100 participants then your degrees of freedom should be 98. If you run a correlation with 100 people and the degrees of freedom (parameter) is not 98, something is wrong.  Likewise with a t-test but it is a bit harder because you are likely to run a Welch's t-test so the degrees of freedom is harder to calculate. However, if you briefly run it as a Student's between-subjects t-test (by setting `var.equal = TRUE`), check the degrees of freedom makes sense, then switch it back to a Welch's t-test, you can be pretty sure your Welch's output is correct. If the degrees of freedom didnt make sense as a Student's test then something is wrong.

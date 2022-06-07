@@ -44,6 +44,100 @@
     </style>
 
 
+<style type="text/css">
+  code {
+    white-space: pre;
+  }
+  .sourceCode {
+    overflow: visible;
+  }
+</style>
+<style type="text/css" data-origin="pandoc">
+pre > code.sourceCode { white-space: pre; position: relative; }
+pre > code.sourceCode > span { display: inline-block; line-height: 1.25; }
+pre > code.sourceCode > span:empty { height: 1.2em; }
+.sourceCode { overflow: visible; }
+code.sourceCode > span { color: inherit; text-decoration: inherit; }
+div.sourceCode { margin: 1em 0; }
+pre.sourceCode { margin: 0; }
+@media screen {
+div.sourceCode { overflow: auto; }
+}
+@media print {
+pre > code.sourceCode { white-space: pre-wrap; }
+pre > code.sourceCode > span { text-indent: -5em; padding-left: 5em; }
+}
+pre.numberSource code
+  { counter-reset: source-line 0; }
+pre.numberSource code > span
+  { position: relative; left: -4em; counter-increment: source-line; }
+pre.numberSource code > span > a:first-child::before
+  { content: counter(source-line);
+    position: relative; left: -1em; text-align: right; vertical-align: baseline;
+    border: none; display: inline-block;
+    -webkit-touch-callout: none; -webkit-user-select: none;
+    -khtml-user-select: none; -moz-user-select: none;
+    -ms-user-select: none; user-select: none;
+    padding: 0 4px; width: 4em;
+    background-color: #2a211c;
+    color: #bdae9d;
+  }
+pre.numberSource { margin-left: 3em; border-left: 1px solid #bdae9d;  padding-left: 4px; }
+div.sourceCode
+  { color: #bdae9d; background-color: #2a211c; }
+@media screen {
+pre > code.sourceCode > span > a:first-child::before { text-decoration: underline; }
+}
+code span.al { color: #ffff00; } /* Alert */
+code span.an { color: #0066ff; font-weight: bold; font-style: italic; } /* Annotation */
+code span.at { } /* Attribute */
+code span.bn { color: #44aa43; } /* BaseN */
+code span.bu { } /* BuiltIn */
+code span.cf { color: #43a8ed; font-weight: bold; } /* ControlFlow */
+code span.ch { color: #049b0a; } /* Char */
+code span.cn { } /* Constant */
+code span.co { color: #0066ff; font-weight: bold; font-style: italic; } /* Comment */
+code span.do { color: #0066ff; font-style: italic; } /* Documentation */
+code span.dt { text-decoration: underline; } /* DataType */
+code span.dv { color: #44aa43; } /* DecVal */
+code span.er { color: #ffff00; font-weight: bold; } /* Error */
+code span.ex { } /* Extension */
+code span.fl { color: #44aa43; } /* Float */
+code span.fu { color: #ff9358; font-weight: bold; } /* Function */
+code span.im { } /* Import */
+code span.in { color: #0066ff; font-weight: bold; font-style: italic; } /* Information */
+code span.kw { color: #43a8ed; font-weight: bold; } /* Keyword */
+code span.op { } /* Operator */
+code span.pp { font-weight: bold; } /* Preprocessor */
+code span.sc { color: #049b0a; } /* SpecialChar */
+code span.ss { color: #049b0a; } /* SpecialString */
+code span.st { color: #049b0a; } /* String */
+code span.va { } /* Variable */
+code span.vs { color: #049b0a; } /* VerbatimString */
+code span.wa { color: #ffff00; font-weight: bold; } /* Warning */
+
+</style>
+<script>
+// apply pandoc div.sourceCode style to pre.sourceCode instead
+(function() {
+  var sheets = document.styleSheets;
+  for (var i = 0; i < sheets.length; i++) {
+    if (sheets[i].ownerNode.dataset["origin"] !== "pandoc") continue;
+    try { var rules = sheets[i].cssRules; } catch (e) { continue; }
+    for (var j = 0; j < rules.length; j++) {
+      var rule = rules[j];
+      // check if there is a div.sourceCode rule
+      if (rule.type !== rule.STYLE_RULE || rule.selectorText !== "div.sourceCode") continue;
+      var style = rule.style.cssText;
+      // check if color or background-color is set
+      if (rule.style.color === '' && rule.style.backgroundColor === '') continue;
+      // replace div.sourceCode by a pre.sourceCode rule
+      sheets[i].deleteRule(j);
+      sheets[i].insertRule('pre.sourceCode{' + style + '}', j);
+    }
+  }
+})();
+</script>
 
 
 
@@ -278,6 +372,10 @@ body{
 <h3>Is there a recommended word count for each part of the report?</h3>
 <p>So in terms of word count, whilst there is no specific hard and fast for each section a good ballpark is something like a third, a third, a third. Third on intro, third on discussion, third on the methods, results, abstract. Don’t take that verbatim though and just as a ballpark. We would suggest though that the intro and discussion should balance (no very long intro and very small discussion, or vice versa, and any words we can save from the middle section of the methods and results, we put into the intro and discusison. Methods and Results are formulaic and detailed, they dont need a lot of expansion - so if you can get the detail across in less words then those spare words we would put into the intro and discussion. The intro and discussion of a paper do a lot of the heavy lifting basically.</p>
 </div>
+<div id="what-is-included-in-the-word-count" class="section level3">
+<h3>What is included in the word count?</h3>
+<p>An easier way is to say what is not included in the word count. The title, the references, and the appendices (if you have any) are the only things not included in the word count. Everything else - including figure legends, table legends, citations, etc, and all the text from the abstract to the end of the discussion, are included in the word count</p>
+</div>
 <div id="can-we-use-abbreviations" class="section level3">
 <h3>Can we use abbreviations?</h3>
 <p>Abbreviations are really not great for readers - they are only good for writers in that it helps them save space. For a reader it creates a high cognitive demand as they try to remember what the abbreviation stood for, ultimately distracting them from reading and understanding what you are writing - an example here might be using SE for Self-Efficacy and IM for Intrinsic Motivation. Taking this approach makes the writing very hard to understand and we would discourage it at all times. The exception here is questionnaires (e.g. MSLQ) and well-known techniques or methods (e.g. MRI, MEG, EEG) but remember to state the phrase out in full in the first instance.</p>
@@ -346,9 +444,114 @@ body{
 <h3>What is the main difference between a Materials subsection and the Procedure subsection?</h3>
 <p>The main difference is that the Materials details what you used - stimuli, questionnaires, etc - whereas the Procedure details what participants did and how the study was run - they responded to each questionnaire shown individually with all questions presented randomly. Possible answers were…</p>
 </div>
+<div id="i-have-seen-cronbachs-alpha-mentioned-in-papers.-what-is-this-and-do-we-need-it" class="section level3">
+<h3>I have seen Cronbach’s alpha mentioned in papers. What is this and do we need it?</h3>
+<p>In terms of a questionnaire, cronbach’s alpha is usually meant as a measure of reliability. Normally a cronbach of <span class="math inline">\(\alpha\)</span> &gt; .8 (so between .8 and 1) is considered very good reliability. It means that if you gave the same person the same test/questionnaire twice then they would give a similar response. You do not need to calculate this for this report as we have not covered. However you can include it if you like in the materials when talking about the MSLQ if you feel confident in it. Normally it is just a statement of “Previously this scale has been shown to have good reliability (<span class="math inline">\(\alpha\)</span> = .XX), (citation)”. But this is not essential in this report as we have not covered it.</p>
+</div>
 <div id="do-we-need-to-discuss-the-code-we-wrote-and-how-it-worked" class="section level3">
 <h3>Do we need to discuss the code we wrote and how it worked?</h3>
 <p>No. Again not wrong but it is using up space and is not needed. If you find yourself saying “we loaded in the csv file and the filtered it for X and then mutated on a column before creating a mean value for each participant” then rephrase as “a mean value was calculated for each participant” as that is the key bit. You do not need to detail how the code work and you are likely using up words that should be saved for other sections.</p>
+</div>
+<div id="my-degrees-of-freedom-for-my-welchs-t-test-has-a-decimal-place.-is-that-ok-and-should-i-round-it-up" class="section level3">
+<h3>My degrees of freedom for my Welch’s t-test has a decimal place. Is that ok and should I round it up?</h3>
+<p>When you run a Welch’s t-test the degrees of freedom is likely to have a decimal place and should not be round up. Convention is to state it the degrees of freedom to two decimal places as it can go above 1. For example, t(95.56) = -0.91, p = 0.367, d = -0.19.</p>
+</div>
+<div id="when-we-calculated-power-for-the-t-test-in-the-pre-reg-we-were-expecting-equal-sizes.-how-can-i-calculate-the-power-with-unequal-sizes" class="section level3">
+<h3>When we calculated power for the t-test in the pre-reg we were expecting equal sizes. How can I calculate the power with unequal sizes?</h3>
+<p>There is a thread on this on the TEAMS channel which you can find by searching for “Power on t-tests with different sample sizes”. It was posted by Phil on the 19th May @ 10:26. However there is also an example within the the Fundamentals of Quantitative Analysis book here if that helps others: <a href="https://psyteachr.github.io/quant-fun-v2/power-and-effect-sizes.html#uneven-groups" target="_blank">https://psyteachr.github.io/quant-fun-v2/power-and-effect-sizes.html#uneven-groups</a>. Remember that you want to know the smallest <code>d</code> that you can determine with your sample sizes.</p>
+</div>
+<div id="can-we-or-should-we-compare-the-results-from-our-full-dataset-to-the-results-from-the-pre-registration" class="section level3">
+<h3>Can we or should we compare the results from our full dataset to the results from the pre-registration?</h3>
+<p>No! Really no! The pre-registration is just a template to help you think about what you want to do with your data. The results from the pre-registration should not be talked about in the full report.</p>
+</div>
+<div id="can-i-change-my-hypothesis" class="section level3">
+<h3>Can I change my hypothesis?</h3>
+<p>In practice, what you would probably do here if running your own full project would be depending on whether you had run the analysis or not. As soon as you run the analysis you should always write up what you originally intended and just deal with any differences in the discussion. If you haven’t run the analysis you can effectively scrap everything and run a new pre-reg. But yeah, the point of no return, if you like, is running the analysis.</p>
+</div>
+<div id="can-i-change-my-pre-registration-to-avoid-having-to-write-about-a-deviation-from-the-pre-registration" class="section level3">
+<h3>Can I change my pre-registration to avoid having to write about a deviation from the pre-registration?</h3>
+<p>The real question is “should you change your pre-registration?” The answer to that would be no, we would probably suggest just leaving the pre-registration as is and writing about the deviation briefly as shown in the videos. To do good and honest science involves having to write up some issues we have. That is fine!</p>
+</div>
+<div id="i-have-now-done-a-lot-of-reading-and-think-my-pre-registration-is-completely-wrong-and-want-to-change-it-all.-can-i" class="section level3">
+<h3>I have now done a lot of reading and think my pre-registration is completely wrong and want to change it all. Can I?</h3>
+<p>Ultimately we will grade and give feedback on the full report you submit. It is unadvised to change the pre-registration because you won’t have any feedback on it and your grade won’t change for it, but ultimately we will grade and give feedback on the full report you submit and not on the pre-registration.</p>
+</div>
+<div id="in-the-participants-section-should-i-show-the-mean-age-and-sd-of-groups-regardless-of-whether-i-am-looking-at-age-or-not" class="section level3">
+<h3>In the participants section should I show the mean age and SD of groups regardless of whether I am looking at age or not?</h3>
+<p>It would be really recommended. In any research it is important that a reader can contextualise the sample - who were they? There is a big difference between a sample of 60 year olds and a sample of 18 year olds and if you don’t tell your reader who was tested then they can never contextualise the results. Most commonly you will see a breakdown of the number of participants and the mean age and standard deviation of age for categorical variable of interest - e.g. Mature Students (N = …, Mean Age = …, SD = ….). You may see other information such as nationality but that additional information is more important when it is relevant and not just standard practice.</p>
+</div>
+<div id="should-i-give-mean-age-etc-on-the-sample-before-exclusions-after-exclusions-or-both" class="section level3">
+<h3>Should I give Mean Age etc on the sample before exclusions, after exclusions, or both?</h3>
+<p>The most important one is after exclusions because that is who will ultimately be tested upon. It might be interesting to include information prior to exclusion - as it can sometimes show issues - but that might come down to availability of words.</p>
+</div>
+<div id="i-wanted-to-show-a-mean-age-but-some-didnt-give-their-age-and-i-dont-want-to-filter-them-out" class="section level3">
+<h3>I wanted to show a mean age but some didn’t give their age and I don’t want to filter them out?</h3>
+<p>In that situation we might do something like “150 participants took part in our study (Mean Age = ….. years, SD = ……; 45 declined to answer)…….” At least that way you are making it clear the age and sd are based on what you have and you are making it clear that X didn’t answer.</p>
+</div>
+<div id="my-t-test-confidence-interval-is-showing-funny-it-says-inf" class="section level3">
+<h3>My t-test confidence interval is showing funny? It says Inf?</h3>
+<p>That is fine if you have run a one-tailed t-test. It can be written as 95%CI = [0.61, Inf] assuming your effect is positive. If it was negative then -Inf is fine. It is because it is a one-sided test and the confidence estimate of the upper bound can’t be estimated properly anymore (or that it could possibly be anything; we can’t quite recall the distinction right now).</p>
+</div>
+<div id="should-figures-and-tables-in-the-results-section-be-in-apa-format" class="section level3">
+<h3>Should figures and tables in the Results section be in APA format?</h3>
+<p>Preferably if you can but as we have not actually covered this yet it is not essential and won’t be considered wrong if you do not use APA formatting. You can get a good idea of APA formatting for figures and tables by looking at the guidelines here in the APA style blog: <a href="https://apastyle.apa.org/style-grammar-guidelines/tables-figures" target="_blank">https://apastyle.apa.org/style-grammar-guidelines/tables-figures</a>. More specifically the tabs titled “Sample Figure” and “Sample Table”.</p>
+</div>
+<div id="how-can-i-do-an-apa-figure-in-r" class="section level3">
+<h3>How can I do an APA figure in R?</h3>
+<p>Again not required for this report but if you were to add <code>+ theme_classic()</code> to the end of a ggplot chain then you get something close enough. An example is below. But again this is not required in this report.</p>
+<div class="sourceCode" id="cb1"><pre class="sourceCode r"><code class="sourceCode r"><span id="cb1-1"><a href="#cb1-1" aria-hidden="true" tabindex="-1"></a><span class="fu">library</span>(tidyverse)</span>
+<span id="cb1-2"><a href="#cb1-2" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-3"><a href="#cb1-3" aria-hidden="true" tabindex="-1"></a><span class="fu">ggplot</span>(iris, <span class="fu">aes</span>(Sepal.Length,Sepal.Width)) <span class="sc">+</span> <span class="fu">geom_point</span>() <span class="sc">+</span> </span>
+<span id="cb1-4"><a href="#cb1-4" aria-hidden="true" tabindex="-1"></a>  <span class="fu">theme_classic</span>()</span></code></pre></div>
+<p><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAABUAAAAPACAMAAADDuCPrAAABX1BMVEUAAAAAADoAAGYAOjoAOmYAOpAAZrYzMzM6AAA6OgA6Ojo6OmY6OpA6ZmY6ZpA6ZrY6kJA6kLY6kNtNTU1NTW5NTY5Nbm5Nbo5NbqtNjshmAABmADpmOgBmOjpmOpBmZjpmZmZmZpBmkGZmkJBmkLZmkNtmtttmtv9uTU1ubk1ubm5ubo5ujqtujshuq+SOTU2Obk2Obm6Oq6uOq8iOq+SOyOSOyP+QOgCQOjqQZjqQZmaQkDqQkGaQkLaQtraQttuQ2/+rbk2rbm6rjm6ryOSr5P+2ZgC2Zjq2Zma2kDq2kGa2kJC2kLa2tpC2tra2ttu229u22/+2///Ijk3Ijm7Iq27IyKvI5P/I///bkDrbkGbbtmbbtpDbtrbbttvb27bb29vb2//b///kq27kyI7kyKvk5Mjk////tmb/yI7/25D/27b/29v/5Kv/5Mj/5OT//7b//8j//9v//+T///+dzpwtAAAACXBIWXMAAB2HAAAdhwGP5fFlAAAgAElEQVR4nO3di5sb1Zng4TLXxgmwoZrFZsnGTNjQOwFsZiawsJkkHgdnk+yQkGZjPJAl0GHtBrqDu/v/f1b31v3yHZV0qvS+zwN2S62jUlXpZ0lVqiouAAgptj0BAHUloABBAgoQJKAAQQIKECSgAEECChAkoABBAgoQJKAAQQIKECSgAEECChAUDujJwbUHlz89ull2vPjJ2PACDTRWNHDnt8vhgJ4cCCiwa6KBOypHAnpcXp8+vIACjRUMXPsV53BAD8u3pg8voEBjxQLXegP/T8OfgZ7f3v9g+vACCjRWLHCH5fWRjUiPbl77862y/Om9ieEFFGisUOCOW2/fRwLa34ZUvtO/5OkeAQUaKxK4Rzdbb9hHAnpclm8+uPj7nXLwTl5AgcaLBK6zxWgkoEe9jfAT25K8hQeaKxC4o87299Ed6XuOy7ELBRRortUDd3LQeZ8+NaAnB2N70gso0FyrB+6oHBj/3tFkVQUUaK61BPT8dm/z+8QXkgQUaK71HEzksBvOQUgvhxdQoLHWE9CTg/ZuTKe3xrchCSjQYKkB7W1S6r2vf3H8q0gCCjTXmgJ6cfp2We6/ObFdXkCB5qo4cAIKNJeAAgQJKECQgAIECShAkIACBAkoQJCAAgQJKECQgAIECShAkIACBAkoQJCAAgQJKECQgAIECShAkICyHkVhYbNzBJS1KAoFZfcIKOtQFArKDhJQ1qAoFJRdJKCsgYCymwSUNRBQdpOAsgYCym4SUNZBP9lJAspa6Ce7SEBZD/1kBwkoQJCAAgQJKECQgAIECShAkIACBAkoQJCAAgQJKECQgAIECShAkIACBAkoQJCAAgQJKECQgAIECShAkIACBAkoQJCAAgQJKECQgAIECShAkIACBAkoQJCAAgQJKECQgAIECShAkIACBAkoQJCAAgQJKECQgAIECShAkIACBAkoQJCAAgQJKECQgAIECShAkIACBAkoQJCAAgQJKECQgAIECShAkIACBAkoQJCAAgQJKECQgAIECShAkIACBAkoQJCA0lcUFhesREDpKQoFhdUIKF1FoaCwIgGloygUFFYloHQIKKxOQOkQUFidgNIhoLA6AaVLP2FlAkqPfsKqBJQ+/YQVCShAkIACBAkoQJCAAgQJKECQgAIECShAkIACBAkoQJCAAgQJKECQgAIECShAkIACBAkoQJCAAgQJKECQgAIECShAkIACBAkoQJCAAgQJKECQgNaJM7dDVgS0RopCQSEnAlofRaGgkBUBrY2iUFDIi4DWhoBCbgS0NgQUciOgtSGgkBsBrQ/9hMwIaI3oJ+RFQOtEPyErAgoQJKAAQQIKECSgAEECChAkoABBAgoQJKAAQQIKECSgAEECChAkoABBAgoQJKAAQQIKECSgAEECChAkoABBAgoQJKAAQeHAnRxcezD04/mdg7J8497E8AIKNFY0cOe3y+GAPrpZtr34yfjwAgo0VjRwR+VIQA/La/cuTkej2hleQOlwRmaaKLhSnxyMBPTkoPPa89HN/Q/Ghvekoa0oFJQGiq3TrTfw/zT8GehReb3351tjw3vOcNHvp7WBpomt0ofl9ZGNSIflO50/j3shvRzeU4bLflodaJjQGn3cevs+HNDz27237pcXPt3jGYOA0liRNbrzUaeAsjQBpaEia/Rh+5POGQEd25HJM4YLAaWxAmv0UWf7+4JXoP3hPWO4sBGJplp9lT456NRSQFmBftJIq6/TR+XA4P26rfAsoJ800XoC2t//036gwA5Zz8FEfBMJ2EHrCej57fIl34UHdkxqQHublE4djQnYOWsK6MXpnVY/33gw/lsCCjSXI9IDBAko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" width="672" /></p>
+</div>
+<div id="how-can-i-do-an-apa-table-in-r" class="section level3">
+<h3>How can I do an APA table in R?</h3>
+<p>Honestly it is not worth trying to do it in R right now. Best thing is to create the table in R so you have the values and then just create a table in Word and paste the values in. You can actually get Word to give you a template of an APA table as a starter though if that would help. If you open a new word doc, but instead of just clicking “blank document”, in the search online templates box type “APA”, you will see the APA template. Once you select that and it opens, scroll down to page 7 and you will see the template table. You can then copy and paste that into your doc in the Results section and then just edit that as you need.</p>
+</div>
+<div id="can-i-use-stars-in-my-table-to-show-different-levels-of-significance-for-example-p-.05-would-be-one" class="section level3">
+<h3>Can I use stars in my table to show different levels of significance? For example, p &lt; .05 would be one *?</h3>
+<p>On the * vs ** thing. So this is used in the literature but some are a fan and some aren’t. Me (Phil) personally I wouldn’t use them but that is maybe a conversation for another day and doesn’t really have any bearing on this report. Just flagging that at times you will get into a conversation of whether this approach is good or not so good.</p>
+</div>
+<div id="i-dont-have-any-tables-in-my-results-section-or-methods-section-either-for-descriptives-or-for-correlations-is-that-ok" class="section level3">
+<h3>I don’t have any tables in my Results section or Methods section, either for descriptives or for correlations, is that ok?</h3>
+<p>Yes. If you only compare two groups and only run one correlation, often that information can be conveyed quite effectively just using text and not using a table - keeping in mind tables count in the word count and require legends. Some will have a table because it helps them. Some will not have a table because it doesn’t help them. Both are fine.</p>
+</div>
+<div id="should-i-show-all-my-assumptions-figures-in-the-results-section" class="section level3">
+<h3>Should I show all my assumptions figures in the Results section?</h3>
+<p>No. It isn’t needed. Again it isn’t wrong to do so but it is taking up space as each figure needs a legend and needs talked about.</p>
+</div>
+<div id="how-many-figures-should-be-in-my-results-section" class="section level3">
+<h3>How many figures should be in my Results section?</h3>
+<p>Normally there is one figure per analysis. So one t-test gives you one boxplot (or equivalent) and one correlation gives you one scatterplot. If you do one t-test and one correlation in your study then you would likely have two figures in your Results section.</p>
+</div>
+<div id="can-i-do-more-than-just-the-minimum-analysis-of-one-t-test-and-one-correlation" class="section level3">
+<h3>Can I do more than just the minimum analysis of one t-test and one correlation?</h3>
+<p>Ultimately we will mark and give feedback on what you submit. That means that if you were inspired to run a series of correlations then we would still mark that. However, please note that this report is not about showing how many analyses you can do. It is about showing how you can write up the two research analyses. The more analyses you do, the more space you take up from writing your introduction and discussion, and remember that every finding would need discussed in the Discussion. So whilst you can do more analyses, it is not advised.</p>
+</div>
+<div id="is-it-possible-to-compare-different-effect-sizes-such-as-pearsons-r-cohens-d-partial-eta-squared-and-hedges-g" class="section level3">
+<h3>Is it possible to compare different effect sizes such as Pearson’s r, Cohen’s d, partial eta-squared, and Hedges’ g?</h3>
+<p>Yes but the best thing to do is convert them all into the same effect size first so that you are comparing like for like. Often if you google “convert Cohen’s d to….” you might find what you need and then you can compare across studies. If you can’t convert the given effect size into a different one for some reason - not enough information for example - then you can compare them semantically “small vs large” but it would be worth acknowledging that they were different effect sizes in your writing somehow.</p>
+</div>
+<div id="my-data-looks-normal-but-the-shapiro-wilks-is-showing-as-significant-which-would-suggest-not-normal.-can-i-ignore-my-shapiro-wilks" class="section level3">
+<h3>My data looks normal but the Shapiro-Wilks is showing as significant which would suggest not normal. Can I ignore my Shapiro-Wilks?</h3>
+<p>This is likely because you have a large sample size. Here we would advise disregarding the Shapiro-Wilks but stating why. This paper <a href="https://link.springer.com/article/10.3758/s13428-021-01587-5" target="_blank">https://link.springer.com/article/10.3758/s13428-021-01587-5</a> has a useful point in it: “Formal tests for normality have been criticized because they have low power at small sample sizes and almost always yield significant deviations from normality at large sample sizes (Ghasemi &amp; Zahediasl, 2012).”</p>
+</div>
+<div id="can-i-say-my-study-is-a-replication" class="section level3">
+<h3>Can I say my study is a replication?</h3>
+<p>There is a distinction between direct and conceptual replication. With direct replication you are pretty much doing the exact same test as the original paper. With a conceptual replication it is a bit vaguer - that would be more close to such and such was found to hold in X, and if that reasoning and theory is correct then the same effect should be seen in Y. So that can be stated. However, when a direct replication becomes a conceptual replication, and when a conceptual replication becomes just a whole new study inspired by something previous is really not clearly defined. Long story short, here you might think of this work as a conceptual replication but it might not be a direct replication.</p>
+</div>
+<div id="do-we-need-to-justify-and-give-citations-for-each-action-and-analysis-in-the-methods-and-results" class="section level3">
+<h3>Do we need to justify and give citations for each action and analysis in the Methods and Results?</h3>
+<p>This aspect can be more brief in the full report as compared to the pre-registration so aim to provide brief justifications where needed. You would not need to citation the tests themselves e.g. a citation for a Pearson’s correlation is not needed. Citations are more for when you are stating a reason for doing something that is perhaps a little different from the current norm - such as “We are using Welch’s as it is better at controlling False Positive (citation)” as opposed to “We are using Pearsons because all assumptions were met”.</p>
+</div>
+<div id="my-test-was-significant-but-the-effect-sizerelationship-was-really-really-small.-have-i-done-something-wrong" class="section level3">
+<h3>My test was significant but the effect size/relationship was really really small. Have I done something wrong?</h3>
+<p>Probably not. When you have a large sample, small effects/relationships will be significant. Check your code and check your degrees of freedom make sense. If all that seems correct then your result is probably correct just that you have a very significant and very small effect. This is why we should be more interested in effect sizes than p-values.</p>
+</div>
+<div id="you-said-something-about-checking-degrees-of-freedom-to-check-my-results-make-sense.-what-does-that-mean" class="section level3">
+<h3>You said something about checking degrees of freedom to check my results make sense. What does that mean?</h3>
+<p>When working with big data - or any data really - it can be easy to make a mistake. One thing you do know though is how to calculate the degrees of freedom from your test. In a correlation it is N - 2 for example. So if you have 100 participants then your degrees of freedom should be 98. If you run a correlation with 100 people and the degrees of freedom (parameter) is not 98, something is wrong. Likewise with a t-test but it is a bit harder because you are likely to run a Welch’s t-test so the degrees of freedom is harder to calculate. However, if you briefly run it as a Student’s between-subjects t-test (by setting <code>var.equal = TRUE</code>), check the degrees of freedom makes sense, then switch it back to a Welch’s t-test, you can be pretty sure your Welch’s output is correct. If the degrees of freedom didnt make sense as a Student’s test then something is wrong.</p>
 </div>
 </div>
 
