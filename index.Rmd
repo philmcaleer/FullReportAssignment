@@ -50,17 +50,14 @@ Again no real one answer but one key thing to keep in mind is your reader. Often
 
 Best to check the Assessment Information Sheet on Moodle. We believe it is better to have one document that has correct information rather than multiple documents having conflicting information so we will keep that answer to the AIS.
 
-### Should we include the pre-registration in the submission?
-
-This is not essential but normally we ask that you include your answers to the first 5 questions from the pre-registration as an appendix to the full report. Do not worry if you forget this though as it is not essential and just recommended. You can include the code as well if that is easier but again not essential. Having the pre-registration as an appendix helps the reader check things if they are uncertain.
-
-### Can we refer to the pre-registration in the appendix?
-
-Yes but this must not be used as a means to save words. For example, you can say "We excluded participants based on the criteria of under 21, male and mature student (see Appendix A)" but you can't say "We excluded participants based on criteria (see Appendix A)". The report has to stand alone and as such relevant information should be contained in the full report.
-
 ### Is there a recommended word count for each part of the report?
 
 So in terms of word count, whilst there is no specific hard and fast for each section a good ballpark is something like a third, a third, a third. Third on intro, third on discussion, third on the methods, results, abstract.  Don't take that verbatim though and just as a ballpark. We would  suggest though that the intro and discussion should balance (no very long intro and very small discussion, or vice versa, and any words we can save from the middle section of the methods and results, we put into the intro and discusison. Methods and Results are formulaic and detailed, they dont need a lot of expansion - so if you can get the detail across in less words then those spare words we would put into the intro and discussion. The intro and discussion of a paper do a lot of the heavy lifting basically.
+
+### Do we need to include an Abstract?
+
+Yes. Estimate somewhere between 250-400 for this but in reality most abstracts will be around 250 words and that allows more words for other parts. Main thing is that it covers the key parts of Area, Aim, Methods, Results, Conclusion.
+
 
 ### What is included in the word count?
 
@@ -74,37 +71,58 @@ Abbreviations are really not great for readers - they are only good for writers 
 
 Technically this is allowed but would be better if you didn't and just rephrased the writing in your own words. For one, quotations change the tone of the writing from your tone to that of the other writer. More importantly, when you use a quotation, and don't go into depth about the meaning of that quotation, you are relying on the reader getting the exact same meaning from the quotation that you did but they are only getting the quotation out of context. A much better approach then is to restate the meaning so that it fits and flows with the surrounding context of your writing.
 
-### Should we use do not or don't?
+### Can we use do not or don't?
 
 Do not use don't and other such shortenings like can't and shouldn't. Instead use do not etc. Remember academic tone!
 
-### In the Design and Analysis subsection of the Methods do we just say what we did or do we need to justify and cite why we chose certain methods?
+### Can we use footnotes?
 
-In general your Methods section will be mostly descriptive, just stating what you did, who you ran, and how, within the full report. Caveats to that may be things like your inclusion/exclusion criteria where you may wish to provide some justification, or perhaps you want to add a citation to support any discussion of using one approach over another, e.g. using the Welch's over the Students, but if just stating we used a Pearson correlation then there is no need for citation. Overall though the Methods section should be clear and concise. 
+We would say no. They are not the done thing in academic reports in Psychology so best avoided. They are not conducive to an easy reading experience of the reader - they have to move their eyes from where they were reading to the bottom of the page to find the footnote to back to where they were in the page. Best avoided.
 
-### Should we cite R, RStudio and packages used.
+### Can you use subheadings in an Introduction and a Discussion?
 
-The minimum should be citing R and packages used. There is a thread on the TEAMS channel which can be reached by searching the channel for "How to cite R and packages". It was posted by Phil on 1st June 16:40pm.
+Yes. There is no rule against this. The question is really do you need them. Often when people use subheadings in an introduction and discussion it leads them to write separate sections in the introduction and the different parts are not connected or joined in any way and it reads like different reports in the one introduction. If you do use subheadings try to think about your writing to still connect the different sections and show they are interlinked in some fashion. Even a simple sentence like "A second important question related to Self-Efficacy is..." This at least shows some brief acknowledgement of the first section and that everything is tied to self-efficacy and questions around it. Do remember though that subheadings count in the word count and if your sections are interlinked then you probably don't need them.
 
-### How do you cite R and packages
+### What is Critical Evaluation?
 
-Information on this can be found on a thread on the TEAMS channel which can be reached by searching the channel for "How to cite R and packages". It was posted by Phil on 1st June 16:40pm. The main thing to say is that it can be tricky to know what to put as a reference for the individual packages and we understand that. We would suggest having the last name of author, first initial of author, year, and package name if possible.
+This paragraph below has had all the points of critical evaluation highlighted in bold.
 
-### Do we need to cite all packages contained within Tidyverse?
+In regard to perceived trustworthiness, **as with dominance in females, few** studies have specifically targeted the effect of vocal pitch on this trait, **with results proving largely inconsistent.** In male voices, two studies exploring the effect of vocal pitch on election voting and personality traits **found contrasting results;** Tigue et al. (2012) found that low-pitched candidates were perceived as more trustworthy, **whereas** Klofstad et al. (2012) found no significant preference in pitch with regard to trustworthiness. **Similarly,** exploring the effect of seeking short- versus long-term relationships, Vukovic et al. (2011) showed no significant preference in male pitch when female participants judged the voices for trustworthiness. **However,** McAleer et al. (2014) found that high-pitched male voices were rated as more trustworthy compared with low-pitched voices. Considering trustworthiness in female voices, **as is the case with dominance, there is a lack of studies, and again a lack of consistent findings.** Klofstad et al. (2012) found that low-pitched female speakers were judged as being more trustworthy in a political scenario, **while, in contrast,** McAleer et al. (2014) found that trustworthiness in female voices was not influenced by average voice pitch but by the vocal glide and intonation; how the pitch moves. **In short, in both genders, there is a lack of studies examining the role of pitch and the preference of high versus low pitch in trustworthiness judgments, with previous findings having failed to provide a consistent answer.**
 
-There is debate on this as mentioned on a thread on the TEAMS channel which can be reached by searching the channel for "How to cite R and packages". It was posted by Phil on 1st June 16:40pm. We would recommend that for this report it is fine to just cite the tidyverse.
+Hopefully what you can see is that the critical evaluation parts are turning the paragraph from a purely descriptive list of findings into a discussion about how previous findings relate to each other (how they compare, align, contrast), and how they all come together in your report to help build the arguement/rationale for your work (or the rationale for your theory). This paragraph comes from [Tsantani et al., 2016](https://journals.sagepub.com/doi/10.1177/0301006616643675){target="_blank"} and further discussion about this paragraph can be seen on the TEAMS channel by searching "Writing Paragraphs" in a thread started by Phil on the 25th May @ 9:59. Our thanks to Eniko Dobos for help in creating this example.
 
-### How exactly do we use the power and effect sizes reported in our pre-reg as part of our descriptive and inferential analyses in the Quant Report? 
+### Do you have any guidance for writing paragraphs?
 
-There is these blogs at the end of the power chapter that might help: [https://psyteachr.github.io/quant-fun-v2/power-and-effect-sizes.html#additional-information](https://psyteachr.github.io/quant-fun-v2/power-and-effect-sizes.html#additional-information){target="_blank"} Your pre-reg is an estimate of how many people you needed. The full dataset is how many people you got. With that full dataset you can determine an effect of X. You run the analysis and find an effect of Y. If X is less than Y then your study was sufficiently powered. If X is bigger than Y then your study was underpowered. If your study is sufficiently powered and you find a significant effect then there is some support for it being a reliable effect. If your study is underpowered then no matter what you find, significant or not significant, is a bit unclear.
+This blog is one that we quite like: [How to write paragraphs](https://blogs.lse.ac.uk/writingforresearch/2017/07/17/how-to-write-paragraphs-in-research-texts-articles-books-and-phds/){target="_blank"}. We do not agree with everything it says, in particular point 5 that a paragraph cant be more than 250 words, but a lot of the other points to watch out for are really helpful, and the general overall principle of the structure of a paragraph is helpful as well - you may also know it as Point, Evidence, Explain, Link. Further discussion about this paragraph can be seen on the TEAMS channel by searching "Writing Paragraphs" in a thread started by Phil on the 25th May @ 9:59.
 
-### What happens if you are underpowered?
 
-Have a read at this blog and see if that helps? [https://psyteachr.github.io/quant-fun-v2/power-and-effect-sizes.html#a-blog-on-interpreting-and-writing-up-power](https://psyteachr.github.io/quant-fun-v2/power-and-effect-sizes.html#a-blog-on-interpreting-and-writing-up-power){target="_blank"}. Being underpowered is just something that happens. The trick is to just avoid saying there is absolutely nothing going on here. When underpowered the truth is you just don't know what is actually happening. You know the effect is not this big but you dont know if it is really this small and can't rule it out so you have to be cautious in the write up. "The absence of evidence is not evidence of an absence" is how someone much smarter than us put it once, but it is the trap a lot of seasoned researchers fall into and one we are trying to teach people to avoid. Another way of phrasing it is, "I dont know what it is but I know what it isn't" i.e. I know it isnt a big effect but I dont know if it is a medium or small effect or nothing so I am just going to leave it at that.
+# Using the Pre-Registration
 
-### How many decimal places should we use in values?
+### Should we include the pre-registration in the submission?
 
-The APA Style guide webpage has a good guide on this that it is handy to know about: [Numbers and Statistics in APA](https://apastyle.apa.org/instructional-aids/numbers-statistics-guide.pdf){target="_blank"}. This is not always adhered to though in publications and often the APA defer to the teachers of a course as the final say. However, if in doubt, using this guideline is totally fine.  One common approach people take is three decimal places for p-values and correlation values (r-values), and two decimal places for everything else. Really the hidden rule behind this approach is whether the value can go above 1 or not. p-values and correlation values (Pearson r) can't go above 1 and so we drop the first 0 and go to three decimal places - e.g. r = .015 and not r = 0.015 or r = 0.02. Often as well people might put Cohen's d to three decimal places, even though it can go above 1, especially when it is small - e.g. d = 0.005 rather than d = 0.01 as rounding up really changes the effect size. So there are always a few caveats and nuances. The main advice is to try and be consistent at this level, and do not use more than three decimal places.
+This is not essential but normally we ask that you include your answers to the first 5 questions from the pre-registration as an appendix to the full report. Do not worry if you forget this though as it is not essential and just recommended. You can include the code as well if that is easier but again not essential. Having the pre-registration as an appendix helps the reader check things if they are uncertain.
+
+### Can we refer to the pre-registration in the appendix?
+
+Yes but this must not be used as a means to save words. For example, you can say "We excluded participants based on the criteria of under 21, male and mature student (see Appendix A)" but you can't say "We excluded participants based on criteria (see Appendix A)". The report has to stand alone and as such relevant information should be contained in the full report.
+
+### Can we use points, citations, research raised in the pre-registration for the full report?
+
+Absolutely. You should definitely use the same research and citations. You can also make the same points though just watch the wording and trying to make sure that the phrasing is in your own tone and in your own words. In short, the pre-registration is a snapshot of what you are doing. The full report is a deeper expansion on those ideas.
+
+### Can we or should we compare the results from our full dataset to the results from the pre-registration?
+
+No! Really no! The pre-registration is just a template to help you think about what you want to do with your data. The results from the pre-registration should not be talked about in the full report. 
+
+### Can I change my pre-registration to avoid having to write about a deviation from the pre-registration?
+
+The real question is "should you change your pre-registration?" The answer to that would be no, we would probably suggest just leaving the pre-registration as is and writing about the deviation briefly as shown in the videos. To do good and honest science involves having to write up some issues we have. That is fine!
+
+### I have now done a lot of reading and think my pre-registration is completely wrong and want to change it all. Can I?
+
+Ultimately we will grade and give feedback on the full report you submit. It is unadvised to change the pre-registration because you won't have any feedback on it and your grade won't change for it, but ultimately we will grade and give feedback on the full report you submit and not on the pre-registration.
+
+# Introductions & Discussions
 
 ### What is the best way to structure our introductions?
 
@@ -114,9 +132,43 @@ The most common advice is to run broad to narrow and that holds here as well. Th
 
 That is one option and that can work if you are equally interested in all variables and each are as equally important to what you are overall trying to show. Alternatively,  it might help to see the research as being focused on one variable (say Self-Efficacy) and having two questions about that one variable. One of the question taps into its relationship with another variable (test-anxiety), and the other question taps into the difference between two groups on that variable (maturity). Then your balance is more about giving equal weight to test-anxiety section and the maturity section, rather than trying to balance all three variables, as the self-efficacy variable runs through both sections. This might give a slightly clunky transition between the two sections but that is ok here. 
 
-### Can you use subheadings in an Introduction and a Discussion?
+### Can I change my hypothesis?
 
-Yes. There is no rule against this. The question is really do you need them. Often when people use subheadings in an introduction and discussion it leads them to write separate sections in the introduction and the different parts are not connected or joined in any way and it reads like different reports in the one introduction. If you do use subheadings try to think about your writing to still connect the different sections and show they are interlinked in some fashion. Even a simple sentence like "A second important question related to Self-Efficacy is..." This at least shows some brief acknowledgement of the first section and that everything is tied to self-efficacy and questions around it. Do remember though that subheadings count in the word count and if your sections are interlinked then you probably don't need them.
+In practice, what you would probably do here if running your own full project would be depending on whether you had run the analysis or not. As soon as you run the analysis you should always write up what you originally intended and just deal with any differences in the discussion. If you haven't run the analysis you can effectively scrap everything and run a new pre-reg. But yeah, the point of no return, if you like, is running the analysis.
+
+### Can I say my study is a replication?
+
+There is a distinction between direct and conceptual replication. With direct replication you are pretty much doing the exact same test as the original paper. With a conceptual replication it is a bit vaguer - that would be more close to such and such was found to hold in X, and if that reasoning and theory is correct then the same effect should be seen in Y.  So that can be stated. However, when a direct replication becomes a conceptual replication, and when a conceptual replication becomes just a whole new study inspired by something previous is really not clearly defined. Long story short, here you might think of this work as a conceptual replication but it might not be a direct replication.
+
+### Should the full report have the same hypothesis as the pre-registration had?
+
+If the question is should the full report have the same hypotheses as was stated in the pre-registration then the answer would be most likely. You can deviate or change of course but be sure to do that before you look at the data and definitely not after. At this stage it can be better to just go with hypotheses you had though and deal with differences in the Discussion.
+
+### Is it an issue if the results are opposite to the hypothesis we stated - e.g. we hypothesised a negative correlation but it turned out to be positive?
+
+This is not an issue and can make for a really interesting discussion. You have found something different from previous studies, assuming you based the hypothesis on previous studies, so you can now think about and discuss why that difference exists. Avoid assuming it is because you have done something wrong or the study was flawed - look for differences that might potentially explain the difference and perhaps build future directions from that. That said, if there were limitations that may have raised an issue then perhaps discuss them as well.
+
+### Can we change the rationale for our effect size or other aspects of what we have proposed? And how might we do this without sounding clunky?
+
+Again this assumes you haven't run the analysis first but there is nothing wrong in saying “Originally we had planned for ….. based on research into……..(citation). However, on reflection, and based on ………(citation) it would be more appropriate to estimate an effect size…….” That is totally fine and totally honest and would be something we would write. Really not about trying to catch people out in research and more just asking people to state what they are doing and why. However, if you have run the analysis then just deal with any issues and differences in the Discussion and don't go back and change part of the analysis to get a better/different finding.
+
+### My results weren't significant, am I going to fail?
+
+No. This is never about finding a significant result. It is purely about writing up research regardless of the outcome.
+
+### Do we need to stick to a rigid Discussion format of summarise all findings first then theory?
+
+Just to start with, the full question was "on the structure of our Discussion sections. Given that we have two studies/hypotheses, would it be preferable to first summarise our findings for our first study/hypothesis and relate them to previous findings and theory and then move on to do the same for our second study/hypothesis? Or do we need to stick to a format where we first summarise our findings for both hypotheses/studies and then relate the findings for both our studies to previous findings and theory?" In reality, the common approach would summarise all findings first and then deal with each in turn but that doesnt mean what is suggested cant work. We think it might save words by taking the standard approach of all findings summarised and then each in turn related to theory and previous work, but that is just a guess and it may be marginal. But yeah, but both options could/would work
+
+# Methods Section
+
+### In the Design and Analysis subsection of the Methods do we just say what we did or do we need to justify and cite why we chose certain methods?
+
+In general your Methods section will be mostly descriptive, just stating what you did, who you ran, and how, within the full report. Caveats to that may be things like your inclusion/exclusion criteria where you may wish to provide some justification, or perhaps you want to add a citation to support any discussion of using one approach over another, e.g. using the Welch's over the Students, but if just stating we used a Pearson correlation then there is no need for citation. Overall though the Methods section should be clear and concise. 
+
+### How exactly do we use the power and effect sizes reported in our pre-reg as part of our descriptive and inferential analyses in the Quant Report? 
+
+There is these blogs at the end of the power chapter that might help: [https://psyteachr.github.io/quant-fun-v2/power-and-effect-sizes.html#additional-information](https://psyteachr.github.io/quant-fun-v2/power-and-effect-sizes.html#additional-information){target="_blank"} Your pre-reg is an estimate of how many people you needed. The full dataset is how many people you got. With that full dataset you can determine an effect of X. You run the analysis and find an effect of Y. If X is less than Y then your study was sufficiently powered. If X is bigger than Y then your study was underpowered. If your study is sufficiently powered and you find a significant effect then there is some support for it being a reliable effect. If your study is underpowered then no matter what you find, significant or not significant, is a bit unclear.
 
 ### Do we need subheadings in the Methods Section?
 
@@ -142,41 +194,39 @@ In terms of a questionnaire, cronbach's alpha is usually meant as a measure of r
 
 No. Again not wrong but it is using up space and is not needed.  If you find yourself saying "we loaded in the csv file and the filtered it for X and then mutated on a column before creating a mean value for each participant" then rephrase as "a mean value was calculated for each participant" as that is the key bit. You do not need to detail how the code work and you are likely using up words that should be saved for other sections.
 
-### My degrees of freedom for my Welch's t-test has a decimal place. Is that ok and should I round it up?
-
-When you run a Welch's t-test the degrees of freedom is likely to have a decimal place and should not be round up. Convention is to state it the degrees of freedom to two decimal places as it can go above 1. For example, t(95.56) = -0.91, p = 0.367, d = -0.19.
-
 ### When we calculated power for the t-test in the pre-reg we were expecting equal sizes. How can I calculate the power with unequal sizes?
 
 There is a thread on this on the TEAMS channel which you can find by searching for "Power on t-tests with different sample sizes". It was posted by Phil on the 19th May @ 10:26. However there is also an example within the the Fundamentals of Quantitative Analysis book here if that helps others: [https://psyteachr.github.io/quant-fun-v2/power-and-effect-sizes.html#uneven-groups](https://psyteachr.github.io/quant-fun-v2/power-and-effect-sizes.html#uneven-groups){target="_blank"}. Remember that you want to know the smallest `d` that you can determine with your sample sizes.
-
-### Can we or should we compare the results from our full dataset to the results from the pre-registration?
-
-No! Really no! The pre-registration is just a template to help you think about what you want to do with your data. The results from the pre-registration should not be talked about in the full report. 
-
-### Can I change my hypothesis?
-
-In practice, what you would probably do here if running your own full project would be depending on whether you had run the analysis or not. As soon as you run the analysis you should always write up what you originally intended and just deal with any differences in the discussion. If you haven't run the analysis you can effectively scrap everything and run a new pre-reg. But yeah, the point of no return, if you like, is running the analysis.
-
-### Can I change my pre-registration to avoid having to write about a deviation from the pre-registration?
-
-The real question is "should you change your pre-registration?" The answer to that would be no, we would probably suggest just leaving the pre-registration as is and writing about the deviation briefly as shown in the videos. To do good and honest science involves having to write up some issues we have. That is fine!
-
-### I have now done a lot of reading and think my pre-registration is completely wrong and want to change it all. Can I?
-
-Ultimately we will grade and give feedback on the full report you submit. It is unadvised to change the pre-registration because you won't have any feedback on it and your grade won't change for it, but ultimately we will grade and give feedback on the full report you submit and not on the pre-registration.
 
 ### In the participants section should I show the mean age and SD of groups regardless of whether I am looking at age or not?
 
 It would be really recommended. In any research it is important that a reader can contextualise the sample - who were they? There is a big difference between a sample of 60 year olds and a sample of 18 year olds and if you don't tell your reader who was tested then they can never contextualise the results. Most commonly you will see a breakdown of the number of participants and the mean age and standard deviation of age for categorical variable of interest - e.g. Mature Students (N = ..., Mean Age = ..., SD = ....).  You may see other information such as nationality but that additional information is more important when it is relevant and not just standard practice.
 
-### Should I give Mean Age etc on the sample before exclusions, after exclusions, or both?
+### Should I give the total N and Mean Age etc on the sample before exclusions, after exclusions, or both?
 
-The most important one is after exclusions because that is who will ultimately be tested upon. It might be interesting to include information prior to exclusion - as it can sometimes show issues - but that might come down to availability of words.
+The most important one is after exclusions because that is who will ultimately be tested upon. It might be interesting to include information prior to exclusion - as it can sometimes show issues - but that might come down to availability of words. Main thing to think about is what is relevant and to not go into too much detail of what is not relevant using up words.
 
 ### I wanted to show a mean age but some didn't give their age and I don't want to filter them out?
 
 In that situation we might do something like "150 participants took part in our study (Mean Age = ..... years, SD = ......; 45 declined to answer)......."  At least that way you are making it clear the age and sd are based on what you have and you are making it clear that X didn't answer.
+
+### What year and how was the data from the MSLQ collected?
+
+In reality it was used predominantly in Level 1 (First year undergraduate class) and MSc labs, and students were asked to complete it as part of their course. They could also send the invite to others meaning that we can't guarantee that everyone was in the University of Glasgow. It was also left open on the main experiment page so others could do it as well. In terms of when it started, there is a datastamp on the datafiles that can indicate when first data was obtained.
+
+# Results
+
+### What happens if you are underpowered?
+
+Have a read at this blog and see if that helps? [https://psyteachr.github.io/quant-fun-v2/power-and-effect-sizes.html#a-blog-on-interpreting-and-writing-up-power](https://psyteachr.github.io/quant-fun-v2/power-and-effect-sizes.html#a-blog-on-interpreting-and-writing-up-power){target="_blank"}. Being underpowered is just something that happens. The trick is to just avoid saying there is absolutely nothing going on here. When underpowered the truth is you just don't know what is actually happening. You know the effect is not this big but you dont know if it is really this small and can't rule it out so you have to be cautious in the write up. "The absence of evidence is not evidence of an absence" is how someone much smarter than us put it once, but it is the trap a lot of seasoned researchers fall into and one we are trying to teach people to avoid. Another way of phrasing it is, "I dont know what it is but I know what it isn't" i.e. I know it isnt a big effect but I dont know if it is a medium or small effect or nothing so I am just going to leave it at that.
+
+### How many decimal places should we use in values?
+
+The APA Style guide webpage has a good guide on this that it is handy to know about: [Numbers and Statistics in APA](https://apastyle.apa.org/instructional-aids/numbers-statistics-guide.pdf){target="_blank"}. This is not always adhered to though in publications and often the APA defer to the teachers of a course as the final say. However, if in doubt, using this guideline is totally fine.  One common approach people take is three decimal places for p-values and correlation values (r-values), and two decimal places for everything else. Really the hidden rule behind this approach is whether the value can go above 1 or not. p-values and correlation values (Pearson r) can't go above 1 and so we drop the first 0 and go to three decimal places - e.g. r = .015 and not r = 0.015 or r = 0.02. Often as well people might put Cohen's d to three decimal places, even though it can go above 1, especially when it is small - e.g. d = 0.005 rather than d = 0.01 as rounding up really changes the effect size. So there are always a few caveats and nuances. The main advice is to try and be consistent at this level, and do not use more than three decimal places.
+
+### My degrees of freedom for my Welch's t-test has a decimal place. Is that ok and should I round it up?
+
+When you run a Welch's t-test the degrees of freedom is likely to have a decimal place and should not be round up. Convention is to state it the degrees of freedom to two decimal places as it can go above 1. For example, t(95.56) = -0.91, p = 0.367, d = -0.19.
 
 ### My t-test confidence interval is showing funny? It says Inf?
 
@@ -193,7 +243,8 @@ Again not required for this report but if you were to add `+ theme_classic()` to
 ```{r, warning=FALSE, message=FALSE}
 library(tidyverse)
 
-ggplot(iris, aes(Sepal.Length,Sepal.Width)) + geom_point() + 
+ggplot(iris, aes(Sepal.Length,Sepal.Width)) + 
+  geom_point() +
   theme_classic()
 
 ```
@@ -230,10 +281,6 @@ Yes but the best thing to do is convert them all into the same effect size first
 
 This is likely because you have a large sample size. Here we would advise disregarding the Shapiro-Wilks but stating why. This paper [https://link.springer.com/article/10.3758/s13428-021-01587-5](https://link.springer.com/article/10.3758/s13428-021-01587-5){target="_blank"} has a useful point in it: "Formal tests for normality have been criticized because they have low power at small sample sizes and almost always yield significant deviations from normality at large sample sizes (Ghasemi & Zahediasl, 2012)."
 
-### Can I say my study is a replication?
-
-There is a distinction between direct and conceptual replication. With direct replication you are pretty much doing the exact same test as the original paper. With a conceptual replication it is a bit vaguer - that would be more close to such and such was found to hold in X, and if that reasoning and theory is correct then the same effect should be seen in Y.  So that can be stated. However, when a direct replication becomes a conceptual replication, and when a conceptual replication becomes just a whole new study inspired by something previous is really not clearly defined. Long story short, here you might think of this work as a conceptual replication but it might not be a direct replication.
-
 ### Do we need to justify and give citations for each action and analysis in the Methods and Results?
 
 This aspect can be more brief in the full report as compared to the pre-registration so aim to provide brief justifications where needed. You would not need to citation the tests themselves e.g. a citation for a Pearson's correlation is not needed. Citations are more for when you are stating a reason for doing something that is perhaps a little different from the current norm - such as "We are using Welch's as it is better at controlling False Positive (citation)" as opposed to "We are using Pearsons because all assumptions were met".
@@ -244,4 +291,18 @@ Probably not. When you have a large sample, small effects/relationships will be 
 
 ### You said something about checking degrees of freedom to check my results make sense. What does that mean?
 
-When working with big data - or any data really - it can be easy to make a mistake. One thing you do know though is how to calculate the degrees of freedom from your test. In a correlation it is N - 2 for example. So if you have 100 participants then your degrees of freedom should be 98. If you run a correlation with 100 people and the degrees of freedom (parameter) is not 98, something is wrong.  Likewise with a t-test but it is a bit harder because you are likely to run a Welch's t-test so the degrees of freedom is harder to calculate. However, if you briefly run it as a Student's between-subjects t-test (by setting `var.equal = TRUE`), check the degrees of freedom makes sense, then switch it back to a Welch's t-test, you can be pretty sure your Welch's output is correct. If the degrees of freedom didnt make sense as a Student's test then something is wrong.
+When working with big data - or any data really - it can be easy to make a mistake. One thing you do know though is how to calculate the degrees of freedom from your test. In a correlation it is N - 2 for example. So if you have 100 participants then your degrees of freedom should be 98. If you run a correlation with 100 people and the degrees of freedom (parameter) is not 98, something is wrong.  Likewise with a t-test but it is a bit harder because you are likely to run a Welch's t-test so the degrees of freedom is harder to calculate. However, if you briefly run it as a Student's between-subjects t-test (by setting `var.equal = TRUE`), check the degrees of freedom makes sense, then switch it back to a Welch's t-test, you can be pretty sure your Welch's output is correct. If the degrees of freedom didn't make sense as a Student's test then something is wrong.
+
+# Citing R
+
+### Should we cite R, RStudio and packages used?
+
+The minimum should be citing R and packages used. There is a thread on the TEAMS channel which can be reached by searching the channel for "How to cite R and packages". It was posted by Phil on 1st June 16:40pm.
+
+### How do you cite R and packages?
+
+Information on this can be found on a thread on the TEAMS channel which can be reached by searching the channel for "How to cite R and packages". It was posted by Phil on 1st June 16:40pm. The main thing to say is that it can be tricky to know what to put as a reference for the individual packages and we understand that. We would suggest having the last name of author, first initial of author, year, and package name if possible.
+
+### Do we need to cite all packages contained within Tidyverse?
+
+There is debate on this as mentioned on a thread on the TEAMS channel which can be reached by searching the channel for "How to cite R and packages". It was posted by Phil on 1st June 16:40pm. We would recommend that for this report it is fine to just cite the tidyverse.
