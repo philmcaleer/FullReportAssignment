@@ -438,12 +438,15 @@ Now follows a series of tips that are not meant to be exhaustive but might help 
   * Most likely you will also mention Experimentum in this section.
   * Both the MSLQ and Experimentum should have citations and corresponding references.
   * DeBruine, L., Lai, R., Jones, B., Abdullah, R., & Mahrholz, G. (2020). Experimentum (Version v.0.2). Zenodo. doi:10.5281/ zenodo.2634355
+  * Example questions from the questionnaire are usually shown in quotation marks as it is indicating a specific question. Subscales from the questionnaire and the questionnaire name itself are not usually shown in quotations.
+  * There is an example of a write-up of a questionnaire in the Week 7 slides for "An activity and presentation on detail in Methods with Phil" on Moodle.
 * Procedure:
   * Upon reading your procedure a fellow researcher should be able to copy exactly what you did. This doesn't necessarily mean in terms of consents and debriefs, but those can be mentioned briefly ("After completing ...." and "participants were debriefed and thanked for participation"), but really means what a participant will see and/or do when taking part in your study.
   * What did participants do? What order did they do it in? Were the questions randomised? Were the questions blocked in some fashion (e.g. all of one subscale then the next, using the original specific order, or some new order)? Were the questions all shown on the one screen or individually? How did participants respond (e.g. mouse click, button click, verbally)?
   * Were participants given a time limit to respond? Were participants given any breaks or just told to complete it in a comfortable pace?
   * It is always good practice to state roughly how long your study took. This doesn't have to be exact but can be estimated from how long it took you to complete the study including answering all questions plus a few minutes for information forms and consent forms to be read, plus any breaks.
   * If you find yourself repeating information from the Materials then it might mean something is in the wrong section. Ask yourself is this about what a participant did or something about the questionnaire.
+  * There is an example of a write-up of a Procedure in the Week 7 slides for "An activity and presentation on detail in Methods with Phil" on Moodle.
 * Design and Data Analysis
   * This section gives a brief overview of the design of your study and how you are planning on analysing the data.
   * Here you should be looking to state the designs (correlational, between-subjects, etc) of your study.
