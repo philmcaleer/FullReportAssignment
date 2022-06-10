@@ -39,7 +39,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 # This blog
 
-This document was last updated on `r Sys.Date()` and is a series of questions and answers relating to the Full Report taught in our MSc Research Methods course. The document also contains a series of tips and pointers that may help to think about the different sections of a report. This document was created by Kirsty Ainsworth, Phil McAleer, Gaby Mahrholz, Helena Paterson and Jaimie Torrance.
+This document was last updated on `r Sys.Date()` and is a series of questions and answers relating to the Full Report taught in our MSc Research Methods course. The document also contains a series of tips and pointers that may help to think about the different sections of a report. This document was created by Kirsty Ainsworth, Phil McAleer, Gaby Mahrholz, Helena Paterson, Jaimie Torrance, and James Bartlett.
 
 **Please note:** if viewing this blog on a phone, use landscape orientation rather than portrait for better function
 
@@ -55,7 +55,7 @@ No. A lot of materials on writing reports will tell you to do this or to do that
 
 ### What is the best way to write a report?
 
-Again no real one answer but one key thing to keep in mind is your reader. Often we fall into the trap of thinking as the writer, because we are writing the report, and forget about the reader. So one good bit of advice is to write like a writer and read like a reader. This means that when you are redrafting your work, take a perspective of a reader who knows about psychology but perhaps does not know this topic so well. This will help you spot where ideas and information are not as clear as they could be.
+Again no real one answer but one key thing to keep in mind is your reader. Often we fall into the trap of thinking as the writer, because we are writing the report, and forget about the reader. So one good bit of advice is to write like a writer and read like a reader. This means that when you are redrafting your work, take a perspective of a reader who knows about psychology but perhaps does not know this topic so well. This will help you spot where ideas and information are not as clear as they could be. We recommend this student guide to scientific writing by [Carpenter (2020)](https://psyarxiv.com/r4sfz/) for some principles and skills to work on. 
 
 ### When is the deadline again and what are the marking criteria?
 
@@ -160,7 +160,7 @@ In practice, what you would probably do here if running your own full project wo
 
 ### Can I say my study is a replication?
 
-There is a distinction between direct and conceptual replication. With direct replication you are pretty much doing the exact same test as the original paper. With a conceptual replication it is a bit vaguer - that would be more close to such and such was found to hold in X, and if that reasoning and theory is correct then the same effect should be seen in Y.  So that can be stated. However, when a direct replication becomes a conceptual replication, and when a conceptual replication becomes just a whole new study inspired by something previous is really not clearly defined. Long story short, here you might think of this work as a conceptual replication but it might not be a direct replication.
+There is a distinction between direct and conceptual replication. With direct replication you are pretty much doing the exact same test as the original paper. With a conceptual replication it is a bit vaguer - that would be more close to such and such was found to hold in X, and if that reasoning and theory is correct then the same effect should be seen in Y.  So that can be stated. However, when a direct replication becomes a conceptual replication, and when a conceptual replication becomes just a whole new study inspired by something previous is really not clearly defined. Long story short, here you might think of this work as a conceptual replication but it might not be a direct replication. If you want to read into the distinction between conceptual and direct replications, we recommend [Brandt et al. (2014)](https://www.sciencedirect.com/science/article/pii/S0022103113001819) who provide a checklist of what makes a convincing replication. 
 
 ### Should the full report have the same hypothesis as the pre-registration had?
 
@@ -210,7 +210,9 @@ The main difference is that the Materials details what you used - stimuli, quest
 
 ### I have seen Cronbach's alpha mentioned in papers. What is this and do we need it?
 
-In terms of a questionnaire, cronbach's alpha is usually meant as a measure of reliability. Normally a cronbach of $\alpha$ > .8 (so between .8 and 1) is considered very good reliability. It means that if you gave the same person the same test/questionnaire twice then they would give a similar response. You do not need to calculate this for this report as we have not covered. However you can include it if you like in the materials when talking about the MSLQ if you feel confident in it. Normally it is just a statement of "Previously this scale has been shown to have good reliability ($\alpha$ = .XX), (citation)". But this is not essential in this report as we have not covered it.
+In terms of a questionnaire, Cronbach's alpha measures a type of reliability known as internal consistency. Normally a Cronbach of $\alpha$ > .8 (so between .8 and 1) is considered very good reliability. When you create a questionnaire, you are trying to measure a type of behaviour across multiple questions. If the questionnaire measures one behaviour, then people should respond in a similar way to all the questions. Therefore, good internal consistency means people respond similarly to all the questions, but poor internal consistency means people respond less similar to all the questions and it may not be measuring one type of behaviour.
+
+You do not need to calculate this for this report as we have not covered. However you can include it if you like in the materials when talking about the MSLQ if you feel confident in it. Normally it is just a statement of "Previously this scale has been shown to have good internal consistency ($\alpha$ = .XX), (citation)". But this is not essential in this report as we have not covered it.
 
 ### Do we need to discuss the code we wrote and how it worked?
 
