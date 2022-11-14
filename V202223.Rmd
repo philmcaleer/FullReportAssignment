@@ -45,72 +45,74 @@ This document was last updated on `r Sys.Date()` and is a series of questions an
 
 # Common Questions
 
-This first section incorporates a number of the common questions repeated on the TEAMS channel and the given answers.
+This first section incorporates a number of the common questions from students and the given answers.
 
 ## General Writing
 
-### Is there one way to write a report?
+### Is there one way to write a full report/paper?
 
 No. A lot of materials on writing reports will tell you to do this or to do that. In the vast majority of cases this advice will be nothing more than that, advice, not hard and fast rules. That said, that advice is often given based on what makes a better reading experience for your intended audience and so is worth paying attention to. There will of course be some rules, on aspects such as presentation of information, values, citations, etc and, given that we use APA 7th edition, it is worth referring to this webpage and the instructional aids there for pointers on that aspect: [https://apastyle.apa.org/style-grammar-guidelines](https://apastyle.apa.org/style-grammar-guidelines){target="_blank"}
 
 ### What is the best way to write a report?
 
-Again no real one answer but one key thing to keep in mind is your reader. Often we fall into the trap of thinking as the writer, because we are writing the report, and forget about the reader. So one good bit of advice is to write like a writer and read like a reader. This means that when you are redrafting your work, take a perspective of a reader who knows about psychology but perhaps does not know this topic so well. This will help you spot where ideas and information are not as clear as they could be. We recommend this student guide to scientific writing by [Carpenter (2020)](https://psyarxiv.com/r4sfz/) for some principles and skills to work on. 
+Again no one real answer but one key thing to keep in mind is your reader. Often we fall into the trap of thinking solely as the writer, because we are writing the report, and forget about the reader. So one good bit of advice is to write like a writer and redraft like a reader. This means that when you are redrafting your work, take a perspective of a reader who knows about psychology but perhaps does not know this topic so well. This will help you spot where ideas and information are not as clear as they could be - there is some evidence to suggest that reading your work out loud can help spot issues when redrafting as you, the writer, are having to slow down to read it, to a pace similar to the novel reader: ["When redrafting read out loud"](https://www.learningscientists.org/blog/2022/10/20-1). We also recommend this student guide to scientific writing by [Carpenter (2020)](https://psyarxiv.com/r4sfz/) for some principles and skills to work on. 
 
 ### When is the deadline again and what are the marking criteria?
 
-Best to check the Assessment Information Sheet on Moodle. We believe it is better to have one document that has correct information rather than multiple documents having conflicting information so we will keep that answer to the AIS.
+Best to check the Assessment Information Sheet on Moodle. We believe it is better to have one document that has all the correct information rather than multiple documents having conflicting information so we will keep that answer to the AIS.
 
 ### Is there a recommended word count for each part of the report?
 
-So in terms of word count, whilst there is no specific hard and fast for each section a good ballpark is something like a third, a third, a third. Third on intro, third on discussion, third on the methods, results, abstract.  Don't take that verbatim though and just as a ballpark. We would  suggest though that the intro and discussion should balance (no very long intro and very small discussion, or vice versa, and any words we can save from the middle section of the methods and results, we put into the intro and discusison. Methods and Results are formulaic and detailed, they dont need a lot of expansion - so if you can get the detail across in less words then those spare words we would put into the intro and discussion. The intro and discussion of a paper do a lot of the heavy lifting basically.
+So in terms of word count, whilst there is no specific hard and fast word count for each section a good ballpark is something like a third, a third, a third. Third on introduction, third on discussion, third on the methods, results, abstract.  Don't take that verbatim though and see it just as a ballpark. We would suggest that the introduction and discussion should balance (meaning you should try to avoid having a very long introduction and a very small discussion, or vice versa), and any words we can save from the Methods and Results, we would use that space in the Introduction and Discussion to add more depth or support. Methods and Results are formulaic and detailed, they don't need a lot of expansion - so if you can get the detail across in less words then those spare words we would put into the introduction and discussion. The introduction and discussion of a paper do a lot of the heavy lifting basically.
 
 ### Do we need to include an Abstract?
 
-Yes. Estimate somewhere between 250-400 for this but in reality most abstracts will be around 250 words and that allows more words for other parts. Main thing is that it covers the key parts of Area, Aim, Methods, Results, Conclusion.
-
+Yes. Estimate somewhere around 250 words for the abstract. In reality most abstracts will be around 200-250 words and that allows more words for other parts. Main thing is that the Abstract covers the key parts of Area, Aim, Methods, Results, Conclusion.
 
 ### What is included in the word count?
 
-An easier way is to say what is not included in the word count. The title, the references, and the appendices (if you have any) are the only things not included in the word count. Everything else - including figure legends, table legends, citations, etc, and all the text from the abstract to the end of the discussion, are included in the word count
+An easier way is to say what is not included in the word count. The title, the references, and the appendices (if you have any) are the only things not included in the word count. Everything else - including figure legends, table legends, values in tables, citations, etc, and all the text from the abstract to the end of the discussion, are included in the word count
 
 ### Can we use abbreviations?
 
-Abbreviations are really not great for readers - they are only good for writers in that it helps them save space. For a reader it creates a high cognitive demand as they try to remember what the abbreviation stood for, ultimately distracting them from reading and understanding what you are writing - an example here might be using SE for Self-Efficacy and IM for Intrinsic Motivation. Taking this approach makes the writing very hard to understand and we would discourage it at all times. The exception here is questionnaires (e.g. MSLQ) and well-known techniques or methods (e.g. MRI, MEG, EEG) but remember to state the phrase out in full in the first instance.
+Abbreviations are really not great for readers - they are only good for writers in that it helps them save space. For a reader it creates a high cognitive demand as they try to remember what the abbreviation stood for, ultimately distracting them from reading and understanding what you are writing - an example here might be using SE for Self-Efficacy and IM for Intrinsic Motivation. Once you have written your paper these abbreviations might be very clear to you, but taking this approach makes the writing very hard to understand for the reader, and we would discourage it at all times. The exception here is questionnaires (e.g. MSLQ) and well-known techniques or methods (e.g. MRI, MEG, EEG) but remember to state the phrase out in full in the first instance.
 
 ### Can we use quotations from previous work?
 
-Technically this is allowed but would be better if you didn't and just rephrased the writing in your own words. For one, quotations change the tone of the writing from your tone to that of the other writer. More importantly, when you use a quotation, and don't go into depth about the meaning of that quotation, you are relying on the reader getting the exact same meaning from the quotation that you did but they are only getting the quotation out of context. A much better approach then is to restate the meaning so that it fits and flows with the surrounding context of your writing.
+Technically this is allowed but would be better if you didn't and just rephrased the writing in your own words. For one, quotations change the tone of the writing from your tone to that of the other writer. More importantly, when you use a quotation, and don't go into depth about the meaning of that quotation, you are relying on the reader getting the exact same meaning from the quotation that you did but they are only getting the quotation and are not getting any of the context. A much better approach is to restate the meaning of what you want to say so that it fits and flows with the surrounding context of your writing.
 
 ### Can we use do not or don't?
 
-Do not use don't and other such shortenings like can't and shouldn't. Instead use do not etc. Remember academic tone!
+Do not use don't and other such shortenings like can't and shouldn't. Instead use do not etc. Remember academic tone! Contractions, as they are called, are fine for informal writing in lay summaries, blogs and webpages. For an academic report though they are considered bad practice and should be avoided.
 
 ### Can we use footnotes?
 
-We would say no. They are not the done thing in academic reports in Psychology so best avoided. They are not conducive to an easy reading experience of the reader - they have to move their eyes from where they were reading to the bottom of the page to find the footnote to back to where they were in the page. Best avoided.
+We would say no. They are not the done thing in academic reports in Psychology so best avoided. Again they are not conducive to an easy reading experience of the reader - the reader has to move their eyes from where they were reading to the bottom of the page to find the footnote and then back to where they were reading in the page. This prevents a flow of information in your writing and so are best avoided.
 
 ### Can we write 'I' or 'we' in our report?
 
-Yes. In this specific report you could use “We” because it started as a group effort or you could use "I" as ultimately it is you doing the analysis and writing. More seasoned (a nice word for older) members of the team find it easier to write "We" as science is rarely just a singular person doing something but both are fine here. We would however avoid using "The research team" and just state "we". 
+Yes. In this specific report you could use “We” because it started as a group effort or you could use "I" as ultimately it is you doing the analysis and writing. More seasoned (a nice word for older) members of the team find it easier to write "We" as science is rarely just a singular person doing something but both approaches are fine here. We would however avoid using "The research team" and just state "we" - active voice is easier to read than passive voice. 
 
 
 ### Can you use subheadings in an Introduction and a Discussion?
 
-Yes. There is no rule against this. The question is really do you need them. Often when people use subheadings in an introduction and discussion it leads them to write separate sections in the introduction and the different parts are not connected or joined in any way and it reads like different reports in the one introduction. If you do use subheadings try to think about your writing to still connect the different sections and show they are interlinked in some fashion. Even a simple sentence like "A second important question related to Self-Efficacy is..." This at least shows some brief acknowledgement of the first section and that everything is tied to self-efficacy and questions around it. Do remember though that subheadings count in the word count and if your sections are interlinked then you probably don't need them.
+Yes. There is no rule against this. The question is really do you need them? Often when people use subheadings in an introduction and discussion it leads them to write separate sections in the introduction and the different parts are not connected or joined in any way and it reads like different reports in the one introduction. If you do use subheadings try to think about your writing and aim to still connect the different sections and show they are interlinked in some fashion. Even a simple sentence like "A second important question related to Self-Efficacy is..." This at least shows some brief acknowledgement of the first section and that everything is tied to self-efficacy and questions around it. Do remember though that subheadings count in the word count and if your sections are interlinked then you probably don't need them.
 
 ### What is Critical Evaluation?
 
 This paragraph below has had all the points of critical evaluation highlighted in bold.
 
-In regard to perceived trustworthiness, **as with dominance in females, few** studies have specifically targeted the effect of vocal pitch on this trait, **with results proving largely inconsistent.** In male voices, two studies exploring the effect of vocal pitch on election voting and personality traits **found contrasting results;** Tigue et al. (2012) found that low-pitched candidates were perceived as more trustworthy, **whereas** Klofstad et al. (2012) found no significant preference in pitch with regard to trustworthiness. **Similarly,** exploring the effect of seeking short- versus long-term relationships, Vukovic et al. (2011) showed no significant preference in male pitch when female participants judged the voices for trustworthiness. **However,** McAleer et al. (2014) found that high-pitched male voices were rated as more trustworthy compared with low-pitched voices. Considering trustworthiness in female voices, **as is the case with dominance, there is a lack of studies, and again a lack of consistent findings.** Klofstad et al. (2012) found that low-pitched female speakers were judged as being more trustworthy in a political scenario, **while, in contrast,** McAleer et al. (2014) found that trustworthiness in female voices was not influenced by average voice pitch but by the vocal glide and intonation; how the pitch moves. **In short, in both genders, there is a lack of studies examining the role of pitch and the preference of high versus low pitch in trustworthiness judgments, with previous findings having failed to provide a consistent answer.**
+"In regard to perceived trustworthiness, **as with dominance in females, few** studies have specifically targeted the effect of vocal pitch on this trait, **with results proving largely inconsistent.** In male voices, two studies exploring the effect of vocal pitch on election voting and personality traits **found contrasting results;** Tigue et al. (2012) found that low-pitched candidates were perceived as more trustworthy, **whereas** Klofstad et al. (2012) found no significant preference in pitch with regard to trustworthiness. **Similarly,** exploring the effect of seeking short- versus long-term relationships, Vukovic et al. (2011) showed no significant preference in male pitch when female participants judged the voices for trustworthiness. **However,** McAleer et al. (2014) found that high-pitched male voices were rated as more trustworthy compared with low-pitched voices. Considering trustworthiness in female voices, **as is the case with dominance, there is a lack of studies, and again a lack of consistent findings.** Klofstad et al. (2012) found that low-pitched female speakers were judged as being more trustworthy in a political scenario, **while, in contrast,** McAleer et al. (2014) found that trustworthiness in female voices was not influenced by average voice pitch but by the vocal glide and intonation; how the pitch moves. **In short, in both genders, there is a lack of studies examining the role of pitch and the preference of high versus low pitch in trustworthiness judgments, with previous findings having failed to provide a consistent answer.**"
 
-Hopefully what you can see is that the critical evaluation parts are turning the paragraph from a purely descriptive list of findings into a discussion about how previous findings relate to each other (how they compare, align, contrast), and how they all come together in your report to help build the arguement/rationale for your work (or the rationale for your theory). This paragraph comes from [Tsantani et al., 2016](https://journals.sagepub.com/doi/10.1177/0301006616643675){target="_blank"} and further discussion about this paragraph can be seen on the TEAMS channel by searching "Writing Paragraphs" in a thread started by Phil on the 25th May @ 9:59. Our thanks to Eniko Dobos for help in creating this example.
+If we now look at this version of the paragraph where the critical evaluation has been removed but communication and research has, to some degree, been maintained:
+
+"In regard to perceived trustworthiness studies have looked at the effect of vocal pitch on this trait. In male voices, two studies exploring the effect of vocal pitch on election voting and personality traits are Tigue et al. (2012) who found that low-pitched candidates were perceived as more trustworthy, and Klofstad et al. (2012) who found no significant preference in pitch with regard to trustworthiness. Looking at the effect of seeking short- versus long-term relationships, Vukovic et al. (2011) showed no significant preference in male pitch when female participants judged the voices for trustworthiness. McAleer et al. (2014) found that high-pitched male voices were rated as more trustworthy compared with low-pitched voices. Considering trustworthiness in female voices, Klofstad et al. (2012) found that low-pitched female speakers were judged as being more trustworthy in a political scenario. McAleer et al. (2014) found that trustworthiness in female voices was not influenced by vocal glide and intonation; how the pitch moves."
+
+Hopefully what you can see, in the first version, is that the critical evaluation parts are turning the paragraph from a purely descriptive list of findings, in the second version, into a discussion about how previous findings relate to each other (how they compare, align, contrast), and how they all come together in your report to help build the argument/rationale for your work (or the rationale for your theory). This paragraph comes from [Tsantani et al., 2016](https://journals.sagepub.com/doi/10.1177/0301006616643675){target="_blank"}. Our thanks to Eniko Dobos for help in creating this example.
 
 ### Do you have any guidance for writing paragraphs?
 
-This blog is one that we quite like: [How to write paragraphs](https://blogs.lse.ac.uk/writingforresearch/2017/07/17/how-to-write-paragraphs-in-research-texts-articles-books-and-phds/){target="_blank"}. We do not agree with everything it says, in particular point 5 that a paragraph cant be more than 250 words, but a lot of the other points to watch out for are really helpful, and the general overall principle of the structure of a paragraph is helpful as well - you may also know it as Point, Evidence, Explain, Link. Further discussion about this paragraph can be seen on the TEAMS channel by searching "Writing Paragraphs" in a thread started by Phil on the 25th May @ 9:59.
-
+This blog is one that we quite like: [How to write paragraphs](https://blogs.lse.ac.uk/writingforresearch/2017/07/17/how-to-write-paragraphs-in-research-texts-articles-books-and-phds/){target="_blank"}. We do not agree with everything it says, in particular point 5 that a paragraph can't be more than 250 words, but a lot of the other points to watch out for are really helpful, and the general overall principle of the structure of a paragraph is helpful as well - you may also know it as the Point, Evidence, Explain, Link approach we looked at earlier in the semester.
 
 ## Using the Pre-Registration
 
@@ -120,11 +122,11 @@ This is not essential but normally we ask that you include your answers to the f
 
 ### Can we refer to the pre-registration in the appendix?
 
-Yes but this must not be used as a means to save words. For example, you can say "We excluded participants based on the criteria of under 21, male and mature student (see Appendix A)" but you can't say "We excluded participants based on criteria (see Appendix A)". The report has to stand alone and as such relevant information should be contained in the full report.
+Yes but this must not be used as a means to save words. For example, you can say "We excluded participants based on the criteria of under 21, male and mature student (see Appendix A)" but you can't say "We excluded participants based on criteria (see Appendix A)". The report has to stand alone and as such **all relevant information should be contained in the full report, not just the Pre-Registration**.
 
 ### Can we use points, citations, research raised in the pre-registration for the full report?
 
-Absolutely. You should definitely use the same research and citations. You can also make the same points though just watch the wording and trying to make sure that the phrasing is in your own tone and in your own words. In short, the pre-registration is a snapshot of what you are doing. The full report is a deeper expansion on those ideas.
+Absolutely. You should definitely use the same research and citations, at least to start off from. You can also make the same points though just watch the wording and trying to make sure that the phrasing is in your own tone and in your own words. In short, the pre-registration is a snapshot of what you are doing. The full report is a deeper expansion on those ideas.
 
 ### Can we or should we compare the results from our full dataset to the results from the pre-registration?
 
@@ -132,39 +134,37 @@ No! Really no! The pre-registration is just a template to help you think about w
 
 ### Can I change my pre-registration to avoid having to write about a deviation from the pre-registration?
 
-The real question is "should you change your pre-registration?" The answer to that would be no, we would probably suggest just leaving the pre-registration as is and writing about the deviation briefly as shown in the videos. To do good and honest science involves having to write up some issues we have. That is fine!
+The real question is "should you change your pre-registration?" The answer to that would be no, we would probably suggest just leaving the pre-registration as is and writing about the deviation briefly as we showed in the Results section. To do good and honest science involves having to write up some of the issues we encounter. That is fine!
 
 ### I have now done a lot of reading and think my pre-registration is completely wrong and want to change it all. Can I?
 
-Ultimately we will grade and give feedback on the full report you submit. It is unadvised to change the pre-registration because you won't have any feedback on it and your grade won't change for it, but ultimately we will grade and give feedback on the full report you submit and not on the pre-registration.
+Ultimately we will grade and give feedback on the full report you submit. It is unadvised to change the pre-registration because you won't have any feedback on it, and your grade for the pre-registration won't change, but ultimately we will grade and give feedback on the full report you submit and not on the pre-registration.
 
 ## Introductions & Discussions
 
 ### What’s the difference between an introduction and a literature review?
 
-The purpose of an Introduction is to provide a rationale for the study that you are going to conduct. It will contain elements of a literature review because you will discuss previous work as part of building this rationale, however, you also need to try and identify and highlight the reason for why you conducted the study you did so you will not need every detail of every previous research. A literature review generally tells a much larger fuller story; an Introduction is only part of the story. 
+The purpose of an Introduction is to provide a rationale for the study that you are going to conduct. It will contain elements of a literature review because you will discuss previous work as part of building this rationale, however, you also need to try and identify and highlight the reason why you conducted the study you did so you will not need every detail of every previous research. A literature review generally tells a much larger fuller story of a field; an Introduction is only part of the story of that field. 
 
+### What is the best way to structure our introduction?
 
-
-### What is the best way to structure our introductions?
-
-The most common advice is to run broad to narrow and that holds here as well. The tricky part here is of course that you are working with probably three variables and trying to bring that altogether. Obviously there are a million different ways to bring all this information together but if it was us we would default to the notion of no, matter what we do, the hypotheses are always in the last paragraph of the introduction. That may mean that one research question, and the information leading to it, is half-way up the intro and the other Research Question is much further down the intro. Or it might mean that both RQs and both hypotheses are near the end, but yeah the intro to the methods transition works best when the hypotheses are at the end of the intro. There is of course no issue in restating one hypothesis twice (midway and at the end) but that might be a bit heavy on words. All that said, there is nothing wrong per se of having one hypothesis halfway up the intro - like it isn't illegal in any way - it just makes more logical sense to a reader in the methods if they are at the end of the introduction as this leads nicely into the methods and results.
+The most common advice is to run broad to narrow and that holds here as well. The tricky part is that you are working with probably two variables and trying to bring that altogether. Obviously there are a million different ways to bring all this information together but if it was us we would default to the notion of no, matter what we do, the hypothesis is always in the last paragraph of the introduction. Where the Research Question sits in the Introduction can vary - some put it near the start to give the reader an early insight; others leave it until much later on as the writing can flow better that way. But the introduction to the methods transition works best when the hypothesis is at the end of the introduction.
 
 ### Should we give equal weight to all the variables in the introduction?
 
-That is one option and that can work if you are equally interested in all variables and each are as equally important to what you are overall trying to show. Alternatively,  it might help to see the research as being focused on one variable (say Self-Efficacy) and having two questions about that one variable. One of the question taps into its relationship with another variable (test-anxiety), and the other question taps into the difference between two groups on that variable (maturity). Then your balance is more about giving equal weight to test-anxiety section and the maturity section, rather than trying to balance all three variables, as the self-efficacy variable runs through both sections. This might give a slightly clunky transition between the two sections but that is ok here. 
+That is one option and that can work if you are equally interested in all variables and each are as equally important to what you are overall trying to show. Alternatively,  it might be that one of the variables takes more of the focus in the introduction - perhaps what you are testing has not been shown and one of the variables has had little research on it. However, when there are only two variables there is probably going to be more of an equal balance but doesn't have to be exactly equal. The main thing to try and avoid is that one variable is covered in great depth and the second is just briefly mentioned - that won't create a good rationale for the study.
 
 ### Can I change my hypothesis?
 
-In practice, what you would probably do here if running your own full project would be depending on whether you had run the analysis or not. As soon as you run the analysis you should always write up what you originally intended and just deal with any differences in the discussion. If you haven't run the analysis you can effectively scrap everything and run a new pre-reg. But yeah, the point of no return, if you like, is running the analysis.
+In practice, what you would probably do here if running your own full project would depend on whether you had run the analysis or not. As soon as you run the analysis you should always write up what you originally intended and just deal with any differences in the discussion. If you haven't run the analysis you can effectively scrap everything and run a new pre-reg. But yeah, the point of no return, if you like, is running the analysis.
 
 ### Can I say my study is a replication?
 
-There is a distinction between direct and conceptual replication. With direct replication you are pretty much doing the exact same test as the original paper. With a conceptual replication it is a bit vaguer - that would be more close to such and such was found to hold in X, and if that reasoning and theory is correct then the same effect should be seen in Y.  So that can be stated. However, when a direct replication becomes a conceptual replication, and when a conceptual replication becomes just a whole new study inspired by something previous is really not clearly defined. Long story short, here you might think of this work as a conceptual replication but it might not be a direct replication. If you want to read into the distinction between conceptual and direct replications, we recommend [Brandt et al. (2014)](https://www.sciencedirect.com/science/article/pii/S0022103113001819) who provide a checklist of what makes a convincing replication. 
+There is a distinction between direct and conceptual replication. With direct replication you are pretty much doing the exact same test as the original paper. With a conceptual replication it is a bit vaguer - that would be more close to such and such was found to hold in X, and if that reasoning and theory is correct then the same effect should be seen in Y.  So that can be stated. However, when a direct replication becomes a conceptual replication, and when a conceptual replication becomes just a whole new study inspired by something previous is really not clearly defined. Long story short, here you might think of this work as a conceptual replication but it might not be a direct replication given that the sample is likely to change. If you want to read into the distinction between conceptual and direct replications, we recommend [Brandt et al. (2014)](https://www.sciencedirect.com/science/article/pii/S0022103113001819) who provide a checklist of what makes a convincing replication. 
 
-### Should the full report have the same hypothesis as the pre-registration had?
+### Should the full report have the same hypothesis as the pre-registration?
 
-If the question is should the full report have the same hypotheses as was stated in the pre-registration then the answer would be most likely. You can deviate or change of course but be sure to do that before you look at the data and definitely not after. At this stage it can be better to just go with hypotheses you had though and deal with differences in the Discussion.
+If the question is should the full report have the same hypothesis as was stated in the pre-registration then the answer would be most likely. You can deviate or change of course but be sure to do that before you look at the data and definitely not after. At this stage it can be better to just go with the hypothesis you had though and deal with differences in the Discussion.
 
 ### Is it an issue if the results are opposite to the hypothesis we stated - e.g. we hypothesised a negative correlation but it turned out to be positive?
 
@@ -174,13 +174,32 @@ This is not an issue and can make for a really interesting discussion. You have 
 
 Again this assumes you haven't run the analysis first but there is nothing wrong in saying “Originally we had planned for ….. based on research into……..(citation). However, on reflection, and based on ………(citation) it would be more appropriate to estimate an effect size…….” That is totally fine and totally honest and would be something we would write. Really not about trying to catch people out in research and more just asking people to state what they are doing and why. However, if you have run the analysis then just deal with any issues and differences in the Discussion and don't go back and change part of the analysis to get a better/different finding.
 
+Please note that this is different however from saying "we had planned an effect size of X and that required N participants. We ended up with N+100 participants and so ran the power analysis again to determine the smallest effect size our design could find". This is completely fine and most likely what a lot of people will do here.
+
 ### My results weren't significant, am I going to fail?
 
 No. This is never about finding a significant result. It is purely about writing up research regardless of the outcome.
 
 ### Do we need to stick to a rigid Discussion format of summarise all findings first then theory?
 
-Just to start with, the full question was "on the structure of our Discussion sections. Given that we have two studies/hypotheses, would it be preferable to first summarise our findings for our first study/hypothesis and relate them to previous findings and theory and then move on to do the same for our second study/hypothesis? Or do we need to stick to a format where we first summarise our findings for both hypotheses/studies and then relate the findings for both our studies to previous findings and theory?" In reality, the common approach would summarise all findings first and then deal with each in turn but that doesnt mean what is suggested cant work. We think it might save words by taking the standard approach of all findings summarised and then each in turn related to theory and previous work, but that is just a guess and it may be marginal. But yeah, but both options could/would work
+The common approach would summarise all findings first and then deal with each in turn but that doesn't mean that an alterantive can't work. We think it might save words by taking the standard approach of all findings summarised and then each in turn related to theory and previous work, but that is just a guess and it may be marginal. But yeah, but both options could/would work. Of course, most of you will only have one finding in this study so summarising it and then discussing it in terms of research and theory is the best approach.
+
+### I am not sure what details of previous research to focus on in the Introduction. Any suggestions?
+
+Actually this is likely to change depending on where you are in the Introduction. Look for this the next time you are reading a paper. Towards the start of the introduction you tend to see a much more global summary of the findings of papers and there is not much detail about what happened. Here people are setting the background broadly. As the Introduction progresses you tend to see more and more detail being mentioned about previous studies. Not all the individual details are mentioned however. What is mentioned is a) what is relevant to the current study, and b) what might help with discussion. So what is relevant might be the main overall finding, and what adds to the discussion might be how it was done, on who, and where, and how big was the effect. Say for instance, the rationale for your study is that it has never been tested in postgrads. In your introduction you will want to make it clear that the previous research was in undergrads or school children. For example, "Paterson et al. (2015), testing children between the ages of 10 and 15, found that...." So here we are giving the finding, but we are also giving detail that will help make our rationale more salient when we state it. Also, it gives us room for discussion in the Discussion section. Say you are doing a close replication of a finding but in the end your results are completely different to what was previously found. If you have given some detail as to the previous study - who and how - then you give yourself more room for comparison, as to why there was a difference, later on in your discussion. So to go back to the question, as you go further through the Introduction you tend to pull out more detail but you only need to mention the detail that is relevant to what is being tested.
+
+### If we have space can we not just state all the details of previous research?
+
+Firstly, if you find you have the space to do that then you are probably not covering enough previous research. Secondly, think about the reader and trying to give them pointers as to what is to come.  Compare these two sentences:
+
+* Paterson et al. (2015), in children aged 10-15, found.....
+* Paterson et al. (2015), in Glaswegian right-handed children aged 10-15 using a 9-point Likert scale tested online on a Friday, found.....
+
+If the rationale is just about age then the first sentence hits that point clearly without confusing the reader. In contrast, the second sentence makes the reader think they have to hold all this information, only to later find out that the key info was age and the rest isn't really being tested here. So details are interesting but not always relevant. Maybe all the detail is relevant to your study but, if it isn't, you might just be confusing your reader.
+
+### Does it matter the order in which I present research in my introduction.
+
+It used to be that people tried to present the research in order of most relevance to their own study so that the most relevant, and most detailed, was mentioned just before they moved into the last paragraph where they focussed on "In the current study...". This can be a good approach as it fits nicely with the Broad to Narrow idea; you are leading the reader through the introduction and building up their knowledge as you go. This should give a nice logical flow, so that when it gets to the hypothesis and rationale for the current study, it is really clear to the reader.
 
 ## Methods Section
 
@@ -194,33 +213,33 @@ There is these blogs at the end of the power chapter that might help: [https://p
 
 ### Do we need subheadings in the Methods Section?
 
-Yes. This is important as it is part of the APA formatting of a report and using the professional structure. The main subheadings would be Participants, Materials, and Procedure. You can also include a Design and Analysis subsection but sometimes this information is included in the Results section so it comes down to what works best for your writing.
+Yes. This is important as it is part of the APA formatting of a report and using the professional structure. The main subheadings would be Participants, Materials, Procedure, and Design and Data Analysis. Note however that sometimes the information in the Design and Data Analysis subsection could be included in the start of Results section instead. It comes down to what works best for your writing.
 
 ### Can we change the order of subheadings in a Methods Section?
 
-The standard is usually Participants, Materials, then Procedure as this follows the logical flow of who, with what, and how - who did you test, what did you use, and what did they do - however, if the information in your writing would make more sense in a different order then that would be acceptable. Do watch out however that logical flow is maintained in the order - do not try to explain things before the reader has the information they need to understand what you are talking about.
+The standard is usually Participants, Materials, Procedure, Design and Data Analysis, as this follows the logical flow of who, with what, and how - who did you test, what did you use, and what did they do, and how are you going to analyse it - however, if the information in your writing would make more sense in a different order then that would be acceptable. Do watch out however that logical flow is maintained in the order - do not try to explain things before the reader has the information they need to understand what you are talking about.
 
 ### Do we need an Ethics subsection in the Methods?
 
-No but if you wanted to include one that is fine, or to include a sentence in the Procedure maybe. Please note that this is not essential for this report however. The study was granted ethics through the Ethics Committee of the School of Psychology and Neuroscience.
+No but if you wanted to include one that is fine, or to include a sentence in the Procedure maybe. Please note that this is not essential for this report however. The study was granted ethics through the Ethics Committee of the School of Psychology and Neuroscience within the College of Science and Engineering.
 
 ### What is the main difference between a Materials subsection and the Procedure subsection?
 
-The main difference is that the Materials details what you used - stimuli, questionnaires, etc - whereas the Procedure details what participants did and how the study was run. The possible answers on each question was 1 to 5 with 1 meaning..... is Materials. Participants responded by using the mouse to select the appropriate button indicating.... is Procedure. Procedures for questionnaires aren't particularly long but there are some tips below to think about and a good thing to do is run yourself in the study again and think about some of the tips in that context.
+The main difference is that the Materials details what you used - stimuli, questionnaires, etc - whereas the Procedure details what participants did and how the study was run. For example, "The possible answers on each question was 1 to 5 with 1 meaning....." is Materials. Whereas, "Participants responded by using the mouse to select the appropriate button indicating...." is Procedure. Procedures for questionnaires aren't particularly long but there are some tips below to think about and a good thing to do is run yourself in the study again and think about some of the tips in that context.
 
 ### I have seen Cronbach's alpha mentioned in papers. What is this and do we need it?
 
 In terms of a questionnaire, Cronbach's alpha measures a type of reliability known as internal consistency. Normally a Cronbach of $\alpha$ > .8 (so between .8 and 1) is considered very good reliability. When you create a questionnaire, you are trying to measure a type of behaviour across multiple questions. If the questionnaire measures one behaviour, then people should respond in a similar way to all the questions. Therefore, good internal consistency means people respond similarly to all the questions, but poor internal consistency means people respond less similar to all the questions and it may not be measuring one type of behaviour.
 
-You do not need to calculate this for this report as we have not covered. However you can include it if you like in the materials when talking about the MSLQ if you feel confident in it. Normally it is just a statement of "Previously this scale has been shown to have good internal consistency ($\alpha$ = .XX), (citation)". But this is not essential in this report as we have not covered it.
+You do not need to calculate this for this report as we have not covered it. However you can include it if you like in the materials when talking about the MSLQ if you feel confident in it. Normally it is just a statement of "Previously this scale has been shown to have good internal consistency ($\alpha$ = .XX), (citation)". But this is not essential in this report as we have not covered it.
 
 ### Do we need to discuss the code we wrote and how it worked?
 
-No. Again not wrong but it is using up space and is not needed.  If you find yourself saying "we loaded in the csv file and the filtered it for X and then mutated on a column before creating a mean value for each participant" then rephrase as "a mean value was calculated for each participant" as that is the key bit. You do not need to detail how the code work and you are likely using up words that should be saved for other sections.
+No. Again not wrong but it is using up space and is really not needed and not the done thing in reports.  If you find yourself saying "we loaded in the csv file and the filtered it for X and then mutated on a column before creating a mean value for each participant" then rephrase this as simply "a mean value was calculated for each participant" as that is the key bit. You do not need to detail how the code work and you are likely using up words that should be saved for other sections.
 
 ### When we calculated power for the t-test in the pre-reg we were expecting equal sizes. How can I calculate the power with unequal sizes?
 
-There is a thread on this on the TEAMS channel which you can find by searching for "Power on t-tests with different sample sizes". It was posted by Phil on the 19th May @ 10:26. However there is also an example within the the Fundamentals of Quantitative Analysis book here if that helps others: [https://psyteachr.github.io/quant-fun-v2/power-and-effect-sizes.html#uneven-groups](https://psyteachr.github.io/quant-fun-v2/power-and-effect-sizes.html#uneven-groups){target="_blank"}. Remember that you want to know the smallest `d` that you can determine with your sample sizes.
+There is also an example within the the Fundamentals of Quantitative Analysis book here if that helps others: [https://psyteachr.github.io/quant-fun-v2/power-and-effect-sizes.html#uneven-groups](https://psyteachr.github.io/quant-fun-v2/power-and-effect-sizes.html#uneven-groups){target="_blank"}. Remember that you want to know the smallest `d` that you can determine with your sample sizes.
 
 ### In the participants section should I show the mean age and SD of groups regardless of whether I am looking at age or not?
 
@@ -246,6 +265,10 @@ You would definitely need to cite the MSLQ and Experimentum as these are somethi
 
 No, you can assume a basic level of methodological understanding on behalf of the reader. You should however define your variables in the introduction, for example, what exactly do you mean by test anxiety, what is the official criteria for a “mature” student etc.
 
+### Do we need a citation for stating $\alpha$ and $\beta$ levels?
+
+No, as long as you are using the field standards of $\alpha = .05$ and $\beta = .8$. There you would just say "using the field standards of..." You can of course include a citation if you have one but it isn't really needed. That said, however, if you decide to use values different from the field standards, e.g. $\alpha = .01$ and $\beta = .95$ then you will want to briefly state why and give a citation or two to support this.  
+
 ## Results
 
 ### What happens if you are underpowered?
@@ -258,11 +281,11 @@ The APA Style guide webpage has a good guide on this that it is handy to know ab
 
 ### My degrees of freedom for my Welch's t-test has a decimal place. Is that ok and should I round it up?
 
-When you run a Welch's t-test the degrees of freedom is likely to have a decimal place and should not be round up. Convention is to state it the degrees of freedom to two decimal places as it can go above 1. For example, t(95.56) = -0.91, p = 0.367, d = -0.19.
+When you run a Welch's t-test the degrees of freedom is likely to have a decimal place and should not be rounded up. Convention is to state the Welch's degrees of freedom to two decimal places as it can go above 1. For example, t(95.56) = -0.91, p = 0.367, d = -0.19.
 
 ### If my t-test is negative have I done something wrong?
 
-No. Remember that the polarity of a t-test (whether it is positive or negative) just helps determine which group was bigger. More often than not, when t-tests are presented in research they are presented as positive (or really the absolute value - with polarity) but it is not wrong to present the t-test with a negative t-value. Do remember though that the t-value and the effect size (cohen's d) should have the same polarity: either both positive or both negative.
+No. Remember that the polarity of a t-test (whether it is positive or negative) just helps determine which group was bigger. More often than not, when t-tests are presented in research they are presented as positive (or really the absolute value - without polarity) but it is not wrong to present the t-test with a negative t-value. Do remember though that the t-value and the effect size (cohen's d) should have the same polarity: either both positive or both negative.
 
 ### My t-test confidence interval is showing funny? It says Inf?
 
@@ -270,7 +293,7 @@ That is fine if you have run a one-tailed t-test. It can be written as 95%CI = [
 
 ### Should figures and tables in the Results section be in APA format?
 
-Preferably if you can but as we have not actually covered this yet it is not essential and won't be considered wrong if you do not use APA formatting.  You can get a good idea of APA formatting for figures and tables by looking at the guidelines here in the APA style blog: [https://apastyle.apa.org/style-grammar-guidelines/tables-figures](https://apastyle.apa.org/style-grammar-guidelines/tables-figures){target="_blank"}. More specifically the tabs titled "Sample Figure" and "Sample Table".
+Preferably if you can but as we have not actually covered this yet it is not essential and won't be considered wrong if you do not use APA formatting.  You can get a good idea of APA formatting for figures and tables by looking at the guidelines here in the APA style blog: [https://apastyle.apa.org/style-grammar-guidelines/tables-figures](https://apastyle.apa.org/style-grammar-guidelines/tables-figures){target="_blank"}. More specifically the tabs titled "Sample Figure" and "Sample Table". There is also a really nice paper and guide from the team here at Glasgow on creating figures - [https://psyteachr.github.io/introdataviz/](https://psyteachr.github.io/introdataviz/) as well as a chapter in your Data Skills book - [https://psyteachr.github.io/quant-fun-v2/visualisation.html](https://psyteachr.github.io/quant-fun-v2/visualisation.html).
 
 ### How can I do an APA figure in R?
 
@@ -291,11 +314,11 @@ Honestly it is not worth trying to do it in R right now. Best thing is to create
 
 ### Can I use stars in my table to show different levels of significance? For example, p < .05 would be one *?
 
-On the * vs ** thing. So this is used in the literature but some are a fan and some aren't. Me (Phil) personally I wouldn't use them but that is maybe a conversation for another day and doesn't really have any bearing on this report. Just flagging that at times you will get into a conversation of whether this approach is good or not so good.
+On the * vs ** thing. So this is used in the literature but some are a fan and some aren't. We would say not to use them but that is maybe a conversation for another day and doesn't really have any bearing on this report. Just flagging that at times you will get into a conversation of whether this approach is good or not so good.
 
 ### I don't have any tables in my Results section or Methods section, either for descriptives or for correlations, is that ok?
 
-Yes. If you only compare two groups and only run one correlation, often that information can be conveyed quite effectively just using text and not using a table - keeping in mind tables count in the word count and require legends. Some will have a table because it helps them. Some will not have a table because it doesn't help them. Both are fine.
+Yes. If you only compare two groups or only run one correlation, often that information can be conveyed quite effectively just using text and not using a table - keeping in mind tables count in the word count and require legends. Some will have a table because it helps them. Some will not have a table because it doesn't help them. Both are fine.
 
 ### Should I show all my assumptions figures in the Results section?
 
@@ -303,11 +326,11 @@ No. It isn't needed. Again it isn't wrong to do so but it is taking up space as 
 
 ### How many figures should be in my Results section?
 
-Normally there is one figure per analysis. So one t-test gives you one boxplot (or equivalent) and one correlation gives you one scatterplot. If you do one t-test and one correlation in your study then you would likely have two figures in your Results section.
+Normally there is one figure per analysis. So one t-test gives you one boxplot (or equivalent) and one correlation gives you one scatterplot. If you do one t-test or one correlation in your study then you would likely have one figures in your Results section.
 
-### Can I do more than just the minimum analysis of one t-test and one correlation?
+### Can I do more than just the minimum analysis?
 
-Ultimately we will mark and give feedback on what you submit. That means that if you were inspired to run a series of correlations then we would still mark that. However, please note that this report is not about showing how many analyses you can do. It is about showing how you can write up the two research analyses. The more analyses you do, the more space you take up from writing your introduction and discussion, and remember that every finding would need discussed in the Discussion. So whilst you can do more analyses, it is not advised.
+Ultimately we will mark and give feedback on what you submit. That means that if you were inspired to run a series of correlations then we would still mark that. However, please note that this report is not about showing how many analyses you can do. It is about showing how you can write up the research analysis. The more analyses you do, the more space you take up from writing your introduction and discussion, and remember that every finding would need discussed in the Discussion. So whilst you can do more analyses, it is not advised.
 
 ### Is it possible to compare different effect sizes such as Pearson's r, Cohen's d, partial eta-squared, and Hedges' g?
 
@@ -329,19 +352,61 @@ Probably not. When you have a large sample, small effects/relationships will be 
 
 When working with big data - or any data really - it can be easy to make a mistake. One thing you do know though is how to calculate the degrees of freedom from your test. In a correlation it is N - 2 for example. So if you have 100 participants then your degrees of freedom should be 98. If you run a correlation with 100 people and the degrees of freedom (parameter) is not 98, something is wrong.  Likewise with a t-test but it is a bit harder because you are likely to run a Welch's t-test so the degrees of freedom is harder to calculate. However, if you briefly run it as a Student's between-subjects t-test (by setting `var.equal = TRUE`), check the degrees of freedom makes sense, then switch it back to a Welch's t-test, you can be pretty sure your Welch's output is correct. If the degrees of freedom didn't make sense as a Student's test then something is wrong.
 
+## We are doing a correlation, do we need to show the means and standard deviations of the variables?
+
+Try to stop focusing on "need to" and think more about what is informative. The reason that many state the means and standard deviations on continuous variables, even though it is the overall relationship being analysed and not the difference between groups, is because it helps contextualise the sample. Say you are looking at test anxiety and find a relationship with peer support and conclude that people with higher test anxiety use peer support more. That is informative, but if you have not give the means and standard deviations of the test anxiety then a reader has no idea if your sample was all spread out or really skewed to people who all scored low overall. Giving that additional information helps the reader understand what is going on, and may give you some more information to focus on in the discussion.
+
 ## Citing R
 
 ### Should we cite R, RStudio and packages used?
 
-The minimum should be citing R and packages used. You can cite RStudio as well but the thing to note is that you should not just cite RStudio by itself - again citing R and the packages is the minimum. There is a thread on the TEAMS channel which can be reached by searching the channel for "How to cite R and packages". It was posted by Phil on 1st June 16:40pm.
+The minimum should be citing R and packages used. You can cite RStudio as well but the thing to note is that you should not just cite RStudio by itself - again citing R and the packages is the minimum. There is an additional page at the back of the Data Skills book that gives some help on this: [https://psyteachr.github.io/quant-fun-v2/citing-r-rstudio.html](https://psyteachr.github.io/quant-fun-v2/citing-r-rstudio.html)
 
 ### How do you cite R and packages?
 
-Information on this can be found on a thread on the TEAMS channel which can be reached by searching the channel for "How to cite R and packages". It was posted by Phil on 1st June 16:40pm. The main thing to say is that it can be tricky to know what to put as a reference for the individual packages and we understand that. We would suggest having the last name of author, first initial of author, year, and package name if possible.
+First off, you should really cite R and the packages you use. Someone has spent a lot of time doing the work to put these packages etc together so we can do our work effectively and efficiently so they should really get the credit. And to us, it is just like citing a paper. So yeah, in a report you really should cite the software you use.
+
+A regular mistake that we see is people citing RStudio as the software. This is wrong because RStudio is just an Integrated Development Environment (IDE) for using R – with R being the main programme we use. If you like, RStudio is just a way of making R look nice - plus some additional functionality for making R easier to work with. Citing RStudio is a bit like citing the make of your TV when really you watched something on the BBC (or other local channel). What TV you watch something on may change how it looks a bit but it is not doing all the hard work on journalism really. The main thing to recognise however is that it is R you are learning practical skills in, and it is R that you are using to analyse and wrangle data, not RStudio (it's just a window onto R), and as such when we are writing up our work we should cite R. 
+
+So how do we do that? Here is a sentence that you might see in journal articles for an analysis conducted in R using the tidyverse and pwr:
+
+"All data wrangling, visualisation and analysis was conducted using the R programming environment (Version 4.0.2, R Core Team, 2020) using the tidyverse library (Version 1.3.0, Wickham et al., 2019) and pwr package (Version 1.3.0, Champely, 2020)."
+
+You may also see this:
+
+"All data wrangling, visualisation and analysis was conducted using the R programming environment (Version 4.0.2, R Core Team, 2020) using the tidyverse library (Wickham et al., 2019) and pwr package (Champely, 2020)."
+
+And just to note, the difference in that second one is the package version has been dropped off of the packages. For this report, it is totally acceptable to have the package versions included or not. I would say though to include the Version of R as that generally makes a bigger difference.  I can get into why I would and wouldn’t have the package version in a full paper later if people are interested (word count, code available, references) but again I would say here in this report, R Version is good and package versions can be added or not. Please note though that the citation is always there. 
+
+You may also see:
+
+"All data wrangling, visualisation and analysis was conducted using the R programming environment (Version 4.0.2, R Core Team, 2020) using the tidyverse library (Wickham et al., 2019)”.
+
+And then somewhere later on in the paper
+
+“Using the pwr package (Champely, 2020) we established….."
+
+Showing that the information can be spread throughout and I am just using the citations like a paper citation. I.e. all the packages don’t have to be in one long list and you don’t have to mention R ten different times if you split it up.
+
+Of course if you haven't done certain parts in R, you would state what you did them in (excel for instance), but if you did it all in R then the above would be appropriate, assuming you had only used Version 4.0.2 of R, Version 1.3.0 of the tidyverse, and Version 1.3.0 of the pwr package. And then in the reference sections you would include something like this below (or equivalent APA 7th version):
+
+Champely, S. (2020). pwr: Basic functions for power analysis (Version 1.3.0)
+
+R Core Team (2020). R: A language and environment for statistical computing. R Foundation for Statistical Computing, Vienna, Austria. https://www.R-project.org/.
+
+Wickham et al., (2019). Welcome to the tidyverse. Journal of Open Source Software, 4(43), 1686, https://doi.org/10.21105/joss.01686
+
+One thing to add though on the references of packages. It isn’t always clear what information you are actually meant to include, and can be difficult to make sense of, so do not worry about this too much. Just do your best with it and I would say as a minimum in the references have the last name, first initial, year, package name if possible.
+
+Oh, and before I forget, as you will remember, tidyverse is actually a collection of packages (ggplot2, dplyr, etc, see: https://www.tidyverse.org/packages/) and there is some debate whether to state each package individually or just state the tidyverse library. For this report I would say both options are fine and it is totally acceptable for this report to just state tidyverse library and not all the individual packages contained within tidyverse.
+
+Hopefully that makes some sense. I think the main parts you will probably need to check are what version of R you are using and citations for packages. This is fairly straightforward using the at the back of the Data Skills book: [https://psyteachr.github.io/quant-fun-v2/citing-r-rstudio.html](https://psyteachr.github.io/quant-fun-v2/citing-r-rstudio.html)
+
+So hopefully that helps. Main take-away thing to remember is that you should cite R and relevant packages. You can cite RStudio in addition if you like.
 
 ### Do we need to cite all packages contained within tidyverse?
 
-There is debate on this as mentioned on a thread on the TEAMS channel which can be reached by searching the channel for "How to cite R and packages". It was posted by Phil on 1st June 16:40pm. We would recommend that for this report it is fine to just cite the tidyverse.
+There is debate on this as mentioned above. We would recommend that for this report it is fine to just cite the tidyverse but going forward it would be better to cite all packages.
 
 # Section Tips
 
@@ -351,12 +416,12 @@ Now follows a series of tips that are not meant to be exhaustive but might help 
 
 * Is not included in the word count.
 * A clear statement as to what your study is looking at works best.
-* Something like "The relationship between X and Y and the impact of Z" is fine at this stage.
-* That said a title that states the main findings can be really effective "No relationship between Self-Efficacy and Test Anxiety but postgraduates show less Test Anxiety than undergraduates."
-* Enough info to know what the report is about. Make it clear and understandable; not complicated; avoid jargon
+* Something like "The relationship between X and Y" or "The effect of X on Y" is fine at this stage depending on what analysis you did.
+* That said a title that states the main findings can be really effective "Postgraduates show greater self-reported test anxiety than undergraduates."
+* Titles should have enough info to know what the report is about. Make it clear and understandable; not complicated; avoid jargon
 * About 20 words is probably more than enough for a title. Keep it short but meaningful.
 * Try to avoid catchy and clickbait titles with multiple clauses - even though yes we have written them in the past (we were young and foolish). This is an interesting article that shows that amusing titles get less citations: [https://journals.sagepub.com/doi/abs/10.1177/0165551507086261](https://journals.sagepub.com/doi/abs/10.1177/0165551507086261){target="_blank"}.
-*	Titles that state No effect found between ... are acceptable
+*	Titles that state No effect (or no relationship) found between ... are acceptable
 
 ## Table of Contents
 
@@ -367,7 +432,7 @@ Now follows a series of tips that are not meant to be exhaustive but might help 
 
 ## Abstract
 
-* Is included in the word count and should be roughly 250-400 words but probably closer to 250
+* Is included in the word count and should be roughly 250 words.
 * The abstract is on a page of its own and usually written as one paragraph.
 * Starts with the heading of "Abstract" centred and in bold.
 * The abstract is a summary of the entire research report. It is the first part of a report and the first thing that people will read; however, you should write the abstract last after you have finished all sections of the report.
@@ -379,17 +444,18 @@ Now follows a series of tips that are not meant to be exhaustive but might help 
 * The abstract ends on Discussion, Interpretation and/or Conclusion. What do your findings say about the original aim of your study mentioned at the start of the Abstract. This discussion is concise and leaves the reader wanting to find out more details about the research.
 *	Avoid finishing on bland statements such as "Future studies will be presented and the results will be discussed". This is just telling us what a Discussion is meant to do and not what you discussed.
 *	Try to end on a strong statement of discussion related to theory
+* Try to avoid ending on "The limitations of our study are discussed in great length" or words to that effect. Remember the abstract is the first thing people read after the title so you don't want to destroy your paper before someone even reads the Introduction.
 *	No need to include citations in your abstract but this is not a hard and fast rule. Statements such as "Previous research has shown......." does not need a citation necessarily in the abstract but it would everywhere else.
 * Keywords are not needed in this report.
 
 ## Introduction
 
-*	Starts on a new page after abstract - i.e. take a new page after the abstract and start the introduction at the top of that new page.
+*	Starts on a new page after the abstract - i.e. take a new page after the abstract and start the introduction at the top of that new page.
 *	No need to rewrite the title at top of introduction as it is on the title page.
-* Can include a heading of "Introduction" centred and in bold if it helps but not required and introduction can start on first line of page.
+* Can include a heading of "Introduction" centred and in bold if it helps but not required in APA formatting and introduction can start on first line of page.
 * The purpose of a research report introduction is to provide background research and justification for the current study
 *	Most common approach is the triangular structure, from broad (the reason for why this is work is interesting) to focussed on the research question and hypothesis (the current study).
-*	How broad should you be at the start? "Psychology is interesting..." is too broad. Starting general on how we understand learning is fine but can be even more focused and start on the importance of one of your variables - e.g. Self-efficacy.
+*	How broad should you be at the start? "Psychology is interesting..." is too broad. Starting general on how we understand learning is fine but can be even more focused and start on the importance of one of your variables - e.g. Self-efficacy is the.....
 *	A good approach is each paragraph contains one key point and points flow logically from one to the next in building the rationale. Point, Explain, Evaluate, Link is a good approach for a paragraph and try to avoid having too many points per paragraph or splitting one point across numerous paragraphs - see "how to write a paragraph" blog above for ideas.
 *	Avoid dumping all the information you know into the first paragraph. This is a good way to get things out of your head and onto paper but it is not good for the reader - redraft, redraft, redraft.
 *	Make sure to link and connect sentences within a paragraph. It is not just series of facts. Have a look at the critical evaluation example above.
@@ -399,18 +465,18 @@ Now follows a series of tips that are not meant to be exhaustive but might help 
 * The amount of detail you give regarding previous studies you discuss is based on what is relevant - you do not need to discuss every single point or mention every single detail. Instead focus on the points that are relevant for building your rationale, justification and arguments. If it is not relevant that the previous study was conducted in the UK then do you need to tell the reader this? However if you want to make a point about culture either as the main study or in the discussion, this might be relevant. 
 *	Often subheadings are used to bypass linking arguments and paragraphs. They are allowed but more often than not the Introduction will be better if you link the paragraphs yourself so try to not use them if you can. But again, not wrong to use them. 
 *	Remember that all subheadings count in the word count.
-* It can help to structure the intro around one of your variables and make that the key focus of the paper. Key variable could be either one of the continuous variables of the correlation or the categorical varibale of the t-test.
-*	Possible six paragraph structure - intro on general area and key variable, more focused info on key variable, info on second variable, info on third variable, theory underlying ideas, current study paragraph (including research questions and hypotheses)
-* Define key terms and concepts, e.g., test anxiety, mature vs traditional students. This can be at the start or somewhere more better positioned to avoid making that first paragraph a list of definitions.
-*	Current study paragraph at the end of intro can reiterate research question maybe if not mentioned before, and usually restates the justification, and ends on hypothesis.
-* You must remember to state the hypotheses.
-*	Remember the whole point of the introduction is to build to the justification of the (Research Question) RQ and a strong clear hypothesis so try to maintain logical flow by ending on hypotheses after showing all the relevant information first.
-* Avoid using bullet points for your hypotheses and, in fact, anywhere in the report.
-* Avoid numbering hypotheses as H1, H2, etc. It is ok to talk about them though in the terms of the first hypothesis and the second hypothesis.
+* It can help to structure the introduction around one of your variables and make that the key focus of the paper. Key variable could be, for example, either one of the continuous variables of the correlation or the categorical variable of the t-test.
+*	Possible five paragraph structure - introduction on general area and key variable, more focused info on key variable, info on second variable, theory underlying ideas, current study paragraph (including research questions and hypotheses)
+* Define key terms and concepts, e.g., test anxiety, mature vs traditional students. This can be at the start or somewhere more better positioned to avoid making that first paragraph a list of definitions. Remember citations though.
+*	Current study paragraph at the end of introduction can introduce or reiterate the research question if not mentioned before, and usually restates the justification, and ends on hypothesis.
+* You must remember to state the hypothesis.
+*	Remember the whole point of the introduction is to build to the justification of the (Research Question) RQ and a strong clear hypothesis so try to maintain logical flow by ending on hypothesis after showing all the relevant information first.
+* Avoid using bullet points for your hypothesis and, in fact, avoid using bullet points anywhere in the report.
+* Avoid numbering hypotheses as H1, H2, etc if you have more than one. It is ok to talk about them though in the terms of the first hypothesis and the second hypothesis.
 *	It can really help to make use of schemas and start the final paragraph with "The current study....."  and to state the hypothesis as "We hypothesise...."
-*	When writing the hypothesis, watch out for using words that may suggest a different analyses than the one you plan. Again think of it like a schema you have of a restaurant or a situation. Words prime people to expect certain outcomes, so in terms of clarity avoid causing any confusion in your reader. Saying a "significant difference" fits with a t-test and comparison of groups. Saying a "significant relationship" fits with a correlation.
-*	The hypothesis can be directional, non-directional, or null, and it makes most sense to the reader when it fits with the research introduced in the introduction. If all previous research you mention suggests a positive effect and you predict a negative effect that might be a bit odd.
-*	Try to introduce some theory into your introduction. When you have written a full intro go back through it and look to see if you are discussing and evaluating an underlying theory. If not, think about if you can suggest something and even give it support through citation. Theory is why some result may occur. For example, that ratings of aggression in faces are consistent whether the faces are shown for 100ms or for 500msecs is the finding of a study. That humans may generate impressions as a survival mechanism, allowing for rapid determination of whether to evoke approach or avoidance behavior, is the theory. Compare previous literature in terms of the outcome of the studies (the results) and try to highlight the underlying theory of your research. 
+*	When writing the hypothesis, watch out for using words that may suggest a different analysis than the one you plan. Again think of it like a schema you have of a restaurant or a situation. Words prime people to expect certain outcomes, so in terms of clarity avoid causing any confusion in your reader. Saying a "significant difference" fits with a t-test and comparison of groups. Saying a "significant relationship" fits with a correlation.
+*	The hypothesis can be directional, non-directional, or null (though best avoiding null), and it makes most sense to the reader when it fits with the research introduced in the introduction. If all previous research you mention suggests a positive effect and you predict a negative effect that might be a bit odd.
+*	Try to introduce some theory into your introduction. When you have written a full introduction go back through it and look to see if you are discussing and evaluating an underlying theory. If not, think about if you can suggest something and even give it support through citation. Theory is why some result may occur. For example, that ratings of aggression in faces are consistent whether the faces are shown for 100ms or for 500msecs is the finding of a study. That humans may generate impressions as a survival mechanism, allowing for rapid determination of whether to evoke approach or avoidance behavior, is the theory. Compare previous literature in terms of the outcome of the studies (the results) and try to highlight the underlying theory of your research. 
 * Of course sometimes there is no theory and that is ok but maybe give a tentative suggestion as to why things might happen.
 *	And again think of schemas and how that helps the reader when talking about theory. Just as with the "We hypothesise...." idea, writing "One theory underpinning this research......"  can help you remember to include writing about theory and can help the reader see where you are.
 * You can use either the active voice or the passive voice. Neither is considered the only way though some argue the active voice is easier for a reader to follow and uses less words. Most writing guides on the internet talk about this distinction but this one suggested is worth a read: [Active vs Passive voice](https://cgi.duke.edu/web/sciwriting/index.php?action=passive_voice){target="_blank"}
@@ -418,7 +484,7 @@ Now follows a series of tips that are not meant to be exhaustive but might help 
 
 ## Methods
 
-* Does not start on a new page after the end of the Introduction. It starts just after last line of the Introduction.
+* Does not start on a new page after the end of the Introduction. It starts just after the Introduction.
 * Starts with the word "Methods" centered and in bold.
 * Method sections are very formulaic, and really about stating the detail. Be concise - i.e. there is not a lot of discussion - but be detailed.
 * You do not need to present all the information and arguments from the pre-registration again here unless it is relevant to what you want to say.
@@ -439,23 +505,22 @@ Now follows a series of tips that are not meant to be exhaustive but might help 
   * Both the MSLQ and Experimentum should have citations and corresponding references.
   * DeBruine, L., Lai, R., Jones, B., Abdullah, R., & Mahrholz, G. (2020). Experimentum (Version v.0.2). Zenodo. doi:10.5281/ zenodo.2634355
   * Example questions from the questionnaire are usually shown in quotation marks as it is indicating a specific question. Subscales from the questionnaire and the questionnaire name itself are not usually shown in quotations.
-  * There is an example of a write-up of a questionnaire in the Week 7 slides for "An activity and presentation on detail in Methods with Phil" on Moodle.
+  * There is an example of a write-up of a questionnaire in the slides from the presentation by Phil on writing Methods sections.
 * Procedure:
-  * Upon reading your procedure a fellow researcher should be able to copy exactly what you did. This doesn't necessarily mean in terms of consents and debriefs, but those can be mentioned briefly ("After completing ...." and "participants were debriefed and thanked for participation"), but really means what a participant will see and/or do when taking part in your study.
+  * Upon reading your procedure a fellow researcher should be able to copy exactly what you did. This doesn't necessarily mean in terms of consents and debriefs, but those can be mentioned briefly ("After completing ...." and "participants were debriefed and thanked for participation"), but really means what a participant saw and/or die when taking part in your study.
   * What did participants do? What order did they do it in? Were the questions randomised? Were the questions blocked in some fashion (e.g. all of one subscale then the next, using the original specific order, or some new order)? Were the questions all shown on the one screen or individually? How did participants respond (e.g. mouse click, button click, verbally)?
   * Were participants given a time limit to respond? Were participants given any breaks or just told to complete it in a comfortable pace?
   * It is always good practice to state roughly how long your study took. This doesn't have to be exact but can be estimated from how long it took you to complete the study including answering all questions plus a few minutes for information forms and consent forms to be read, plus any breaks.
   * If you find yourself repeating information from the Materials then it might mean something is in the wrong section. Ask yourself is this about what a participant did or something about the questionnaire.
-  * There is an example of a write-up of a Procedure in the Week 7 slides for "An activity and presentation on detail in Methods with Phil" on Moodle.
+  * There is an example of a write-up of a Procedure in slides of the presentation given by Phil on writing a Methods section.
 * Design and Data Analysis
   * This section gives a brief overview of the design of your study and how you are planning on analysing the data.
-  * Here you should be looking to state the designs (correlational, between-subjects, etc) of your study.
-  * You should state the variables for the two designs as well - remembering to determine for the test which is the dependent variable and which is the independent variable.
+  * Here you should be looking to state the design (correlational, between-subjects, etc) of your study.
+  * You should state the variables for the design as well - remembering to determine for the test which is the dependent variable and which is the independent variable if you are running a t-test. If it is a correlation then they are both just stated as variables.
   * When talking about the variables aim to be specific, e.g. mean test anxiety as opposed to just test anxiety.
   * It is perfectly fine to say the Independent Variable is X with the two conditions of A and B - or you can find a way of saying it that doesn't use the words Independent and Dependent Variable if you like but it should be clear from the writing which is which, and how many groups are in the IV and what they are.
   * Another word for conditions/groups of an IV is levels so you might see that word from time to time. Feel free to use it as well. A between-subjects test is conducted on an independent variable with two levels.
-  * Given that there are two analyses/studies here it might make sense to have a paragraph for each to keep it clear for the reader.
-  * In terms of data analysis you can state intent to use Pearson and Welch's between-subjects t-test here. You can also present assumption checks, outlier checks, and additional exclusion criteria here or present them in the Results section if more fitting.
+  * In terms of data analysis you can state intent to use Pearson or Welch's between-subjects t-test here. You can also present assumption checks, outlier checks, and additional exclusion criteria here or present them in the Results section if more fitting.
   * You can present information on the power analysis here if you have not already mentioned it.
 
 ## Results
@@ -463,37 +528,37 @@ Now follows a series of tips that are not meant to be exhaustive but might help 
 * Results section starts just after the Methods and does not take a new page.
 * It starts with the word "Results" bold and centered.
 * A good structure to presenting each study is Hypothesis, Deviations from Pre-Registration, Assumption Checks, Descriptives, Inferentials and then stating whether the hypothesis was supported or not and perhaps a brief statement of interpretation.
-* When you have more than one analysis - as you do here - it is best to do one whole analysis and then the next and not mixing the two together.
-*	No need for subheadings but can be used if it would improve the clarity of the writing. For example, "Study 1" and "Study 2" would be fine. We would avoid subheadings of "descriptives", "inferentials" etc. 
+* When you have more than one analysis it is best to do one whole analysis and then the next and not mixing the two together. The vast majority will only have one analysis however so expect the Results section to be short and to the point.
+*	No need for subheadings in a Results sectino but can be used if it would improve the clarity of the writing. For example, "Study 1" and "Study 2" would be fine. We would avoid subheadings of "descriptives", "inferentials" etc. 
 * With Results sections sometimes it is better to write long-format first (i.e. very long and verbose) and then redraft it to shorten it.
-* For each study, all the parts of the results can be written in one or two paragraphs. This looks better than 5 or 6 small one sentence paragraphs per study.
-* When stating the hypotheses, make sure to match them to the ones in the intro. They should not have changed when writing the Methods.
+* All the parts of the results can be written in one or two paragraphs. This looks better than 5 or 6 small one sentence paragraphs.
+* When stating the hypothesis, make sure to match it to the one in the introduction. It should not have changed when writing the Methods.
 * When talking about assumptions, make sure that you avoid just stating what the assumptions are and instead state that they were checked and verified, or checked and found to hold, or if they didn't hold, what are you doing about it and what change are you making to your analysis.
 * Remember to state how you checked the assumptions - visualisations etc. You do not show these in the Results but need to explain that is what you did. If you ran a Shapiro-Wilks and are basing a decision off of that then you would show the output (W = ...., p = ....)
-* Just to clarify, It is not wrong to show all the histograms and assumption checks but it is not advised because a) at one level you have to trust the researcher and their writing, and b) each figure requires a figure legend and discussion taking up a lot of space and words.
+* Just to clarify, it is not wrong to show all the histograms and assumption checks but it is not advised because a) at one level you have to trust the researcher and their writing, and b) each figure requires a figure legend and discussion taking up a lot of space and words and will likely be missing stuff from the Introduction or Discussion.
 * If assumptions are not met, you say this and also how you resolved it.  For instance, a single outlier was observed on visual inspection and was removed/replaced, etc; or data was highly skewed and as such analysis was conducted using non-parametric tests.
 * When presenting Descriptives, be sure to interpret the relationship/difference. This is a subjective evaluation but should be more than just "Group A was this and Group B was this". Think of it in terms of "Group A appears to have a larger...."
 * Aim to present values using APA formatting including, and especially, whitespace, e.g. M = 12.25 years and not M=12.25
 * Commonly if the value can go above 1 then we use two decimal places. If the value can't go above 1 then we use three decimal places. If unsure, try to be consistent at least and avoid using more than three decimal places.
 * You can present values in a table if it helps but remember to discuss the relationship/difference regardless of whether the values are in the text or in a table. "Group A had a larger.... (M = x.xx, SD = y.yy)" is fine, as is "Group A had a larger .... (see Table 1)". Main point is that the tables and figures are referred to and interpreted and the reader is not just left to figure it out.
-* Each analysis usually has one figure. As you are running a t-test and a correlation you would likely have two figures in the report.
-*	Put your key figures in the Results section and not in the appendices.
-* Just like with tables, refer to your figures in the text (see Figure 1) - interpret and evaluate them in the text, "It would appear that..."
+* Each analysis usually has one figure. As you are running a t-test or a correlation you would likely have one figure in the report.
+*	Put your key figure in the Results section and not in the appendices.
+* Just like with tables, refer to your figure in the text (see Figure 1) - interpret and evaluate it in the text, "It would appear that..."
 * We have not covered making figures in APA format yet but you are more than welcome to try but it is not required.
   * if you want to work towards APA - again not required for figures - then think about showing the full scale on your axes and correctly labeling the axes, and see the above point on using `theme_classic()`
-* Remember to give a title to tables and figures and to include any notes/legends for the figure. These count as words so keep them short but informative. What does the figure show? What do the dots represent? Try to also think about the figure if it wasn't shown in color - it can help to state something like, "mature students (blue, left) and traditional students (green, right)."  It can also help to indicate on correlation plots or boxplots that show individual data points, what individual data point represents. "Each point shows an individual participant."  
-* Tables and figures count in the word count. You do need figures in a Results section; tables can be used if you like.
+* Remember to give a title to tables and figures and to include any notes/legends for the figure. These count as words so keep them short but informative. What does the figure show? What do the dots represent? Try to also think about the figure if it wasn't shown in color - it can help to state something like, "mature students (blue, left) and traditional students (green, right)."  It can also help to indicate on correlation plots or boxplots that show individual data points, what individual data point represents. "Each point shows an individual participant." * Tables and figures count in the word count. You do need at least one figure in the Results section; tables can be used if you like.
 * Be precise on the APA formatting of the inferential test outputs.
 * t-test outputs are nearly always presented in the text and never in a table. Correlation outputs, when there is only one or two correlations, are also normally presented in the text. When you have multiple correlations then you might want to present them in a table.
 *	Give exact p-values, e.g. p = .013.(unless smaller than .001, e.g. p < .001), if non-significant, still give the exact p-value.
-*	Do not state p-value in scientific format, i.e. p < 6e-12.  That would be < .001
+*	Do not state p-value in scientific format, i.e. p < 6e-12.  That would be stated as simply p < .001
 *	Do not state p-values with a long string of 0s, e.g. p < .00000000000000000000000000000000000000000000000001.  That would be p < .001
 *	Any p-value greater than .001 should be written as the exact p-value to three decimal places.  p = .123
-*	Give appropriate effect sizes (cohen's d).
+* Try to avoid putting a 0 before the decimal place in p-values. It should be p = .012 and not p = 0.012 for example.
+*	Give appropriate effect sizes (e.g. cohen's d).
 *	Remember to give appropriate spacing (whitespace) between values and letters in inferential output, e.g. t(18) = 3.12, p = .14, and not t(18)=3.12, p=.14. This is both about being professional and not cheating the word count.
 * Remember that more often than not, unless you are running a whole bunch of analyses, inferential results should be presented just as part of the paragraph. Not in some special font, with a box round them, a separate paragraph, or a cat pointing to them regaling their awesomeness. Just some normal text in the sentence.
 *	Remember to state what test you are using: e.g. pearson correlation; spearman correlation; Welch's between-subjects t-test.
-* Finish each analysis by interpreting results in context of hypothesis (direction and size of difference)
+* Finish an individual analysis by interpreting results in context of hypothesis (direction and size of difference)
 * The hypothesis at the end is a reiteration in terms of whether the hypothesis was accepted or not and with a very brief interpretation. "The results support the hypothesis that…suggesting that stress does have an impact on forum post length due to a dislocation of keyboard inhibition".
 *	No prolonged discussion in the results section. That is what the discussion is for. A brief interpretation in the results section is expected.
 
@@ -501,22 +566,23 @@ Now follows a series of tips that are not meant to be exhaustive but might help 
   
 * Starts just after the end of the Results and does not take a new page.
 * Starts with the word "Discussion" centered and in bold.
-* The Discussion should aim to roughly follow the similar idea of the Narrow to Broad structure – summary of results > relate your results to literature and theory mentioned in intro > possible limitations and future directions > conclusions
+* The Discussion should aim to roughly follow the similar idea of the Narrow to Broad structure – summary of results > relate your results to literature and theory mentioned in introduction > possible limitations and future directions > conclusions
 * Think of the whole report as an hourglass and we are now nearing the bottom. The broad to narrow approach that you took in the introduction is now reversed in that you want to go narrow (your findings) to broad (how your findings relate to previous work and theory).
 *	Start by briefly stating the results in context of the hypothesis.
 *	Avoid putting numbers and figures in the discussion, just a summary of the results in words.
 *	Don't worry if hypothesis is not supported. Don't automatically assume the finding is wrong. Explore reasons for null effect, theoretical or methodological, and then perhaps limitations of study that may lead to null – limited power, etc.
-*	No one way to write it but basic would be summary of findings, relation to papers, relation to theory, caveats and future studies, conclusion.
+*	No one way to write a Discussion but basic it would be a summary of findings, relation to papers, relation to theory, caveats and future studies, conclusion.
 *	First paragraph is usually the summary and last paragraph is usually the conclusion. In between that, each paragraph can cover a different section (one on relation to papers, one on relation to theory, one on limitations) or each paragraph can do all of these steps (e.g. highlight a particular finding, relate it to previous literature and theory, discussion and limitation and future study).
 *	Weighting of different parts – we would recommended that the majority of the discussion would be better spent focussed on your own findings and relating them to theory and papers but this is just a rough ballpark. Keep in mind though when writing the discussion the ILO of evaluation and critical evaluation. Critical evaluation can be positive as well as not so positive.
 * When relating your results to theory and papers, remember to actually compare to your own findings. Often people reiterate the previous findings but their own study gets lost of forgotten about.
 * Evaluate your findings, don’t just describe them. What do your results mean? How do they fit into previous findings? If you think there’s a weakness to the study, what specific impact do you think it might have had on the results? 
 * The discussion is not just reiterating the Introduction. It is about contextualising your findings in the field.
 * Create a link to introduction by discussing the findings in relation to some of the findings mentioned in the Introduction. You can of course bring in new papers and research as well and expand the ideas but would be better to also link to those in the introduction and state why these are no longer relevant if that is the case.
+  * This is where having some specific relevant details in the Introduction can help with the Discussion. If the results differ, or even if they align, thinking about the nuances of the different studies can help give lots to discuss.
 * It is more than acceptable to bring in new theories and research into the discussion section but be careful not to completely disregard the introduction as this will create a disconnect between the two sections and the introduction and discussion should be related in terms of ideas.
-*	The intro and discussion should link together somehow. They are bookends to your study. And they should balance to some degree – avoid a really small discussion and long intro, or vice versa.
-*	Think about the thread that runs through the report from introduction through to the discussion. Don't view each section in isolation but consider the material in each section and how it relates back and forward. You should be able to draw links between the intro and discussion as the introduction brings information as to what is known before your study and the discussion places your findings in that literature and relates your finding to previous work. Compare, contrast, link.
-*	Where appropriate, state aims for future research or possible future research questions to be investigated - your discussion shouldn't try to overreach your findings. You can't answer all the questions and it is fine to flag some up for future work. The key thing is to think of ones that are relevant and try to support them with citations. A future direction for any study in humans is to go run it in dogs and see what happens and I could write that in any paper - but that doesn't mean it is relevant. In some cases it will be - if I want to know if dogs have specific regions of the brain associated with different human vocal personalities - but in other cases it wont be. 
+*	The introduction and discussion should link together somehow. They are bookends to your study. And they should balance to some degree – avoid a really small discussion and long introduction, or vice versa.
+*	Think about the thread that runs through the report from introduction through to the discussion. Don't view each section in isolation but consider the material in each section and how it relates back and forward. You should be able to draw links between the introduction and discussion as the introduction brings information as to what is known before your study and the discussion places your findings in that literature and relates your finding to previous work. Compare, contrast, link.
+*	Where appropriate, state aims for future research or possible future research questions to be investigated - your discussion shouldn't try to overreach your findings. You can't answer all the questions and it is fine to flag some up for future work. The key thing is to think of ones that are relevant and try to support them with citations. A future direction for any study in humans is to go run it in dogs and see what happens and I could write that in any paper - but that doesn't mean it is relevant. In some cases it will be - if I want to know if dogs have specific regions of the brain associated with different human vocal personalities - but in other cases it wont be. You as the writer have to make the points salient and relevant to the reader.
 * Future directions are not just about thinking of everything and anything. One or two relevant and supported ideas is enough.
 * Future directions and limitations can focus on the scale used or a different scale but again think about why this is relevant. This is also a good example of when highlighting reliability, validity, procedure, in the methods and introduction can be beneficial. This point is easier made if that relevant information has already been laid out in the writing.
 *	Think about resolving your limitations. Most "limitations" that people state are actually still valid means of conducting the study or are still relevant to the field so it is ok to suggest it as a limitation but to also resolve it. E.g. self-report responses always have issues of bias and future studies may want to change this method, however they are standard practice and when we compare to previous findings we see similar outcomes. So we are saying we know of the limitation, we know how to approach it in future, but we also think it is ok to still think about this study.
@@ -557,7 +623,7 @@ Now follows a series of tips that are not meant to be exhaustive but might help 
 *	The first draft and the last draft are two different documents. That is why we encourage you to spend the time now to think and write, and the last few days to edit and polish. Think, Write, Edit, Polish, Submit.
 *	Try to mix up where you use citations a little in your writing. For instance, it can get a bit repetitive to have the citation positioned always at the end of the sentence (Scott and Woods, 2019). Try starting the sentence with the citation as well, e.g. "Scott and Woods (2019) showed that.....
 *	Likewise, if you have to run a short list of things, it can help the reader by putting the citations after each finding. E.g. "voices have been shown to influence voting behavior (citation 1), mate attraction (citation 2), and group cohesion (citation 3)".  Just putting all the citations at the end can be confusing as the order of the citations is predetermined by the APA guidelines, and not the order of findings in your sentence (citation 2; citation 1; citation 3).
-*	Don't put the title of the journal article in the main body of the report - for example, in the Introduction, "In the paper, Hocus Pocus got no focus on the Locus of Control" - this just wastes words. All you need is the citation. The reference section is for all the other information if someone wants to look up the work.
+*	Don't put the title of the journal article in the main body of the report - for example, in the Introduction, "In the paper, Hocus Pocus got no focus on the Locus of Control by BeetleJuice and colleagues (2010)" - this just wastes words. All you need is the citation. The reference section is for all the other information if someone wants to look up the work.
 *	Avoid quotes - writing in your own voice, with your own consistent tone, making sure that your point is clear is much better than assuming a reader understands the quote out of context.
 *	Avoid rhetorical questions. Again not a hard and fast rule, but who are you asking? Rephrase your sentence.
 *	Look for ways to reduce your word count.   For example, "A study by Stevenson and Dawydiak (2018) found that....", can easily be reduced to "Stevenson and Dawydiak (2018) found that....."  and if you are linking it to another study, then maybe "Likewise, Stevenson and Dawydiak (2018) found.....". Remember that one part of evaluation is to link studies together conceptually.
