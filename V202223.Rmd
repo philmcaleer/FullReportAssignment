@@ -132,7 +132,9 @@ Hopefully what you can see, in the first version, is that the critical evaluatio
 
 ### Do you have any guidance for writing paragraphs?
 
-This blog is one that we quite like: [How to write paragraphs](https://blogs.lse.ac.uk/writingforresearch/2017/07/17/how-to-write-paragraphs-in-research-texts-articles-books-and-phds/){target="_blank"}. We do not agree with everything it says, in particular point 5 that a paragraph can't be more than 250 words, but a lot of the other points to watch out for are really helpful, and the general overall principle of the structure of a paragraph is helpful as well - you may also know it as the Point, Evidence, Explain, Link approach we looked at earlier in the semester.
+This blog is one that we quite like: [How to write paragraphs](https://medium.com/advice-and-help-in-authoring-a-phd-or-non-fiction/how-to-write-paragraphs-80781e2f3054/){target="_blank"} (scroll down a little until you see the "how to write paragraphs heading). We do not agree with everything it says, in particular point 5 that a paragraph can't be more than 250 words, but a lot of the other points to watch out for are really helpful, and the general overall principle of the structure of a paragraph is helpful as well - you may also know it as the Point, Evidence, Explain, Link approach we looked at earlier in the semester.
+
+<!-- This is an additional blog on paragraphs that gives a similar idea and is recommended by Gaby: https://libguides.hull.ac.uk/grammar/paragraphs -->
 
 ## Using the Pre-Registration
 
